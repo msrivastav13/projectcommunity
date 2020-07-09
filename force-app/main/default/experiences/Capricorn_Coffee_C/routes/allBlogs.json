@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "c0ae1635-e21f-4282-bc8b-b2cc4036cab9",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "66ca3eb4-20b3-40f5-8b78-c54dab097ec3",
+  "label" : "All Blogs",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-all-blogs-final",
+  "type" : "route",
+  "urlPrefix" : "all-blogs-final"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "7b4780c9-ce4c-42c0-a723-1e21bfcb8178",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "114de358-6fd4-4909-98ea-a3cec91fa435",
+  "label" : "MyPageTest",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-my-pg",
+  "type" : "route",
+  "urlPrefix" : "MyPgT"
+}

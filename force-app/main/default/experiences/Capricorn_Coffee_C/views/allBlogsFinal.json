@@ -1,0 +1,84 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:dynamicLayout",
+  "id" : "c0ae1635-e21f-4282-bc8b-b2cc4036cab9",
+  "label" : "All Blogs Final",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "92ad4ef4-af2f-4e12-b735-e5e502480614",
+          "columns" : [ {
+            "UUID" : "2b0a892a-f55e-4738-bf10-f584114b651c",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "92ad4ef4-af2f-4e12-b735-e5e502480614",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "customTitle" : "",
+            "parentRecordId" : "",
+            "relatedListName" : "",
+            "showBreadCrumbs" : true,
+            "showCustomTitle" : false,
+            "showManualRefreshButton" : true,
+            "showRowNumbers" : true
+          },
+          "componentName" : "forceCommunity:relatedList",
+          "id" : "22fb3686-3a0b-4198-9d39-828a084fe056",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        }, {
+          "componentAttributes" : {
+            "config" : "{\"dataProviderDefinition\":{\"componentName\":\"forceCommunity:managedContentCollectionDataProvider\",\"attributes\":{\"dataProviderType\":\"NamedCollection\",\"dataProviderInfo\":{\"apiName\":\"All_Blogs\"}}},\"schemaVersion\":\"V2.0\",\"collectionLayoutDefinition\":{\"componentName\":\"forceCommunity:dynamicCollectionGrid\",\"attributes\":{\"columns\":\"3\",\"rows\":\"15\",\"spacing\":\"small\",\"showCollectionTitle\":false,\"collectionTitle\":\"\",\"showViewMoreButton\":false,\"viewMoreButtonLabel\":\"View More Items\",\"viewMoreButtonPlacement\":\"center\",\"viewMoreButtonRadius\":4,\"viewMoreButtonBackgroundColor\":\"\",\"viewMoreButtonBackgroundColorHover\":\"\",\"viewMoreButtonTextColor\":\"\",\"viewMoreButtonTextColorHover\":\"\",\"viewMoreButtonBorderColor\":\"\",\"viewMoreButtonBorderColorHover\":\"\",\"collectionTitleHeadingTag\":\"h2\"}},\"itemLayoutDefinition\":{\"componentName\":\"forceCommunity:bannerLayout\",\"attributes\":{\"showTitle\":true,\"showCaption\":true,\"showButton\":true,\"showFlag\":true,\"showEyebrow\":true,\"showMetadata1\":true,\"showMetadata2\":true,\"title\":\"{!CurrentItem.BlogTitle}\",\"subTitle\":\"\",\"imageUrl\":\"{!CurrentItem.BlogImageMain.url}\",\"imageAltText\":\"\",\"videoUrl\":\"\",\"flagText\":\"\",\"eyebrowText\":\"\",\"metadata1Text\":\"\",\"metadata2Text\":\"\",\"useAspectRatio\":false,\"bannerAspectRatio\":\"16:9\",\"bannerHeight\":\"370\",\"contentWidth\":80,\"textAlignment\":\"top center\",\"overlayBackgroundColor\":\"rgba(0, 0, 0, 0.05)\",\"backgroundSize\":\"cover\",\"backgroundPosition\":\"center center\",\"hideTextElementsForVideo\":false,\"flagBackgroundColor\":\"#ff0000\",\"flagTextColor\":\"#ffffff\",\"flagAlignment\":\"top left\",\"flagRotation\":0,\"flagSpacing\":\"medium\",\"flagBorderColor\":\"#ffffff\",\"flagBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"0\\\"}}\",\"flagTextDecoration\":\"\",\"titleHeadingTag\":\"p\",\"titleTextDecoration\":\"{\\\"bold\\\":false}\",\"bannerTitleTextColor\":\"rgb(39, 39, 39)\",\"titleFontSize\":\"medium\",\"showTitleHighlight\":false,\"titleHighlightColor\":\"\",\"bannerSubTitleTextColor\":\"#ffffff\",\"subTitleFontSize\":\"small\",\"eyebrowTextColor\":\"#ffffff\",\"eyebrowFontSize\":\"regular\",\"eyebrowTextDecoration\":\"\",\"showEyebrowHighlight\":false,\"eyebrowHighlightColor\":\"\",\"metadataTextColor\":\"#ffffff\",\"metadataFontSize\":\"regular\",\"metadataTextDecoration\":\"\",\"showMetadata1Highlight\":false,\"metadata1HighlightColor\":\"\",\"showMetadata2Highlight\":false,\"metadata2HighlightColor\":\"\",\"callToActionLabel\":\"View\",\"callToActionButtonBorderStyles\":\"\",\"callToActionButtonBackgroundColor\":\"\",\"callToActionButtonBackgroundColorHover\":\"\",\"callToActionButtonTextColor\":\"\",\"callToActionButtonTextColorHover\":\"\",\"callToActionButtonBorderColor\":\"\",\"callToActionButtonBorderColorHover\":\"\",\"defaultLinksOverrides\":\"{}\",\"additionalLinks\":\"{}\",\"componentHoverEffect\":\"none\"}}}"
+          },
+          "componentName" : "forceCommunity:dynamicCollection",
+          "id" : "0f02d110-e9d3-4353-8575-0a2ad94fe871",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "2b0a892a-f55e-4738-bf10-f584114b651c",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d67cd47f-1806-45ab-bba0-693ad4b1a3b6",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "All Blogs Final"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "ec8a7890-7359-4780-a82d-b5f1edd2cd8b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c1f3d546-e2b4-4ab0-8fa7-ba32f0e0bc2d",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "TaiTmllk4EKHEZcLIVASbqLZ01ROfO",
+  "type" : "view",
+  "viewType" : "custom-all-blogs-final"
+}

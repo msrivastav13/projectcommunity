@@ -1,0 +1,65 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:sldsThreeCol363Layout",
+  "id" : "522b1e6e-7402-4daf-8e35-55774d281b9f",
+  "label" : "Blogs Detail",
+  "regions" : [ {
+    "id" : "1f92a379-6ba3-4979-8198-f00a5816267f",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "config" : "{\"layoutDefinition\":{\"componentName\":\"forceCommunity:detailLayoutWithSections\",\"attributes\":{\"showTitle\":true,\"showSubTitle\":true,\"showHeaderMetadata\":true,\"showFeaturedSection\":true,\"showFeaturedImage\":true,\"showFeaturedVideo\":true,\"showFeaturedContent\":true,\"showSection1\":false,\"showSection1Title\":true,\"showSection1Image\":true,\"showSection1Content\":true,\"showSection2\":false,\"showSection2Title\":true,\"showSection2Image\":true,\"showSection2Content\":true,\"showFooterMetadata\":false,\"title\":\"{!CurrentItem.BlogTitle}\",\"subTitle\":\"\",\"headerMetadata1Text\":\"\",\"headerMetadata2Text\":\"\",\"headerMetadata3Text\":\"\",\"featuredImageUrl\":\"\",\"featuredVideoUrl\":\"\",\"featuredContent\":\"{!CurrentItem.BlogDetail}\",\"section1Title\":\"\",\"section1ImageUrl\":\"\",\"section1Content\":\"\",\"section2Title\":\"\",\"section2ImageUrl\":\"\",\"section2Content\":\"\",\"footerMetadata1Text\":\"\",\"footerMetadata2Text\":\"\",\"footerMetadata3Text\":\"\",\"headerTextAlignment\":\"center\",\"titleHeadingTag\":\"h3\",\"titleTextColor\":\"\",\"titleFontSize\":\"small\",\"titleTextDecoration\":\"\",\"subTitleTextColor\":\"\",\"subTitleFontSize\":\"regular\",\"subTitleTextDecoration\":\"\",\"headerMetadataTextColor\":\"\",\"headerMetadataFontSize\":\"regular\",\"headerMetadataTextDecoration\":\"\",\"featuredImageLayout\":\"cover\",\"featuredImagePosition\":\"center center\",\"featuredImageHeight\":\"450\",\"featuredImageWidth\":100,\"featuredVideoHeight\":450,\"featuredVideoUseAspectRatio\":false,\"featuredVideoAspectRatio\":\"16:9\",\"section1TitleTextColor\":\"\",\"section1TitleFontSize\":\"regular\",\"section1TitleTextDecoration\":\"\",\"section1ImageLayout\":\"cover\",\"section1ImagePosition\":\"center center\",\"section1ImageAlignment\":\"center\",\"section1ImageHeight\":\"450\",\"section1ImageWidth\":50,\"section1ImageOffset\":\"medium\",\"section1ImageBorderColor\":\"#ffffff\",\"section1ImageBorderStyles\":\"\",\"section2TitleTextColor\":\"\",\"section2TitleFontSize\":\"regular\",\"section2TitleTextDecoration\":\"\",\"section2ImageLayout\":\"cover\",\"section2ImagePosition\":\"center center\",\"section2ImageAlignment\":\"center\",\"section2ImageHeight\":\"450\",\"section2ImageWidth\":50,\"section2ImageOffset\":\"medium\",\"section2ImageBorderColor\":\"#ffffff\",\"section2ImageBorderStyles\":\"\",\"footerMetadataTextColor\":\"\",\"footerMetadataFontSize\":\"regular\",\"footerMetadataTextDecoration\":\"\"}},\"schemaVersion\":\"V2.0\"}"
+      },
+      "componentName" : "forceCommunity:managedContentDetail",
+      "id" : "dbcf1587-4da1-47a1-9caa-6e689be04d0b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "860e5f5d-cbdc-4a92-bf3d-9cb04fa19ac7",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "communityPrefix" : ""
+      },
+      "componentName" : "c:gartner_content_recs_controller",
+      "id" : "e9912a57-2143-477a-9456-550260c6d8a4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5adf8a7f-09f2-41cd-a48b-d27de4e8d4eb",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : ""
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "8d33e360-2ab9-462e-aadd-cf58462ac708",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6e4e189d-8698-4eec-9c2a-8c050e29219f",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "id" : "cb916587-7730-4b5b-a02e-0733a559889d",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "b998b5f6-94e3-4d62-bf15-9e38cc2fa81c",
+    "regionName" : "sidebarAlt",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "TaiTmllk4EKHEZcLIVASbqLZ01ROfO",
+  "type" : "view",
+  "viewType" : "managed-content-Blogs"
+}

@@ -1,0 +1,10 @@
+{
+  "cmsSettings" : { },
+  "currentThemeId" : "e56d0f16-35ed-4dca-891a-b8fb3f640951",
+  "headMarkup" : "<script>(function(o,n,e){var l='link',s='script',c='createElement',i='insertBefore',f=o.getElementsByTagName(s)[0],p=f.parentNode,x=o[c](l),y=o[c](l),z=o[c](s);x.rel='preconnect';x.href=n;y.rel='preload';y.href=e;y.as=s;z.id='thxTag';z.src=e;p[i](x,f);p[i](y,f);p[i](z,f);})(document,'https://na5.thunderhead.com','https://na5.cdn.thunderhead.com/one/rt/js/one-tag.js?siteKey=ONE-VQJK7R2FIO-2024');</script>",
+  "id" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "isRelaxedCSPLevel" : true,
+  "label" : "main",
+  "templateName" : "Service Community Template",
+  "type" : "appPage"
+}

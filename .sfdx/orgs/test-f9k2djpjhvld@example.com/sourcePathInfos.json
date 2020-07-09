@@ -1,0 +1,2897 @@
+[
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1592508780351,
+            "changeTime": 1592509133464,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1592508780352,
+            "changeTime": 1592508780352,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 544,
+            "modifiedTime": 1594329273842,
+            "changeTime": 1594329273842,
+            "contentHash": "01bee2384fa9b56fca86f2c53b3ace5beab273e8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780352,
+            "changeTime": 1592508780352,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780352,
+            "changeTime": 1592508780352,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780352,
+            "changeTime": 1592508780352,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/contentassets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780352,
+            "changeTime": 1592508780352,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1594327778982,
+            "changeTime": 1594327778982,
+            "contentHash": "326c522b17cd777798edd451d9a98991353d5069",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1594327779013,
+            "changeTime": 1594327779013,
+            "contentHash": "911c40c16db7cce75d98fdedaf970cb94161defa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/brandingSets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/brandingSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1594327778997,
+            "changeTime": 1594327778997,
+            "contentHash": "223eca5f7973b9fd7dc73a3eb2815760e0d33aa7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/brandingSets/customerService.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/brandingSets/customerService.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1829,
+            "modifiedTime": 1594327778996,
+            "changeTime": 1594327778996,
+            "contentHash": "45bfe4aaf25e00cf2a2e882bb0bddf3d73b26aee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/brandingSets/cypress.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/brandingSets/cypress.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1081,
+            "modifiedTime": 1594327778997,
+            "changeTime": 1594327778997,
+            "contentHash": "cb538b434ff7bd3ebd448f9566cb05f1436d670c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1594327779022,
+            "changeTime": 1594327779022,
+            "contentHash": "29cdd32f70de5bc350684dbae2c07c25edf0ea4e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config/capricornCoffee.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config/capricornCoffee.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1326,
+            "modifiedTime": 1594327778987,
+            "changeTime": 1594327778987,
+            "contentHash": "ceb7c01a916abdae66b52132a5385df4ef7ef711",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config/languages.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config/languages.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 593,
+            "modifiedTime": 1594327779018,
+            "changeTime": 1594327779018,
+            "contentHash": "36a2b0afe3af8f940769b0c5f36415594240a1d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config/loginAppPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config/loginAppPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 154,
+            "modifiedTime": 1594327779020,
+            "changeTime": 1594327779020,
+            "contentHash": "bac468c236ab0a905aa270394079d6a603a62a37",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config/mainAppPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/config/mainAppPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 684,
+            "modifiedTime": 1594327779022,
+            "changeTime": 1594327779022,
+            "contentHash": "8c84141bf2c9354fe3f1c9d90c889b2cc6c5590c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 2304,
+            "modifiedTime": 1594327779065,
+            "changeTime": 1594327779065,
+            "contentHash": "4c3e9bbb9b8924e948b25308874415612427d0b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/accountManagement.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/accountManagement.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 296,
+            "modifiedTime": 1594327778983,
+            "changeTime": 1594327778983,
+            "contentHash": "83467b8c23addf1195d177fe2527ab744bb49a35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/allBlogs.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/allBlogs.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 318,
+            "modifiedTime": 1594327778984,
+            "changeTime": 1594327778984,
+            "contentHash": "b309d26d1d95dbbc16dfd07ef32dfafb02c1143d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/articleDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/articleDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 271,
+            "modifiedTime": 1594327778985,
+            "changeTime": 1594327778985,
+            "contentHash": "421e2ac28afb3470879713398c8537e3408bd86b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/bannerDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/bannerDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 313,
+            "modifiedTime": 1594327778985,
+            "changeTime": 1594327778985,
+            "contentHash": "05e7940d0f3452c5ca915c4abf179c992728ecd2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/blogsDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/blogsDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 310,
+            "modifiedTime": 1594327778986,
+            "changeTime": 1594327778986,
+            "contentHash": "a0e6ef4f8197f83af7e010e49d85839cd551e3e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/caseDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/caseDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 267,
+            "modifiedTime": 1594327778987,
+            "changeTime": 1594327778987,
+            "contentHash": "d3f320cba93334a85b9774cd3aaaa9189d18b7bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/caseList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/caseList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 263,
+            "modifiedTime": 1594327778988,
+            "changeTime": 1594327778988,
+            "contentHash": "77809ce8f1eec7c224de149ee30d32a6de54e8e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/caseRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/caseRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 278,
+            "modifiedTime": 1594327778989,
+            "changeTime": 1594327778989,
+            "contentHash": "44c6fc74a464c8f0bc6ff5e61667d164c24fb92f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/checkPassword.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/checkPassword.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 293,
+            "modifiedTime": 1594327778990,
+            "changeTime": 1594327778990,
+            "contentHash": "4e3cb2f045ced077e200e856d9f9230d8ed88ee4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/checkout.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/checkout.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 303,
+            "modifiedTime": 1594327778991,
+            "changeTime": 1594327778991,
+            "contentHash": "ea95ab19eb226d6bfbb4f3ee26a171938a49f7dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/coffeeEventDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/coffeeEventDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 319,
+            "modifiedTime": 1594327778991,
+            "changeTime": 1594327778991,
+            "contentHash": "73a222f8c5cc4632a1b00c03d580dc255c145d4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/coffeeEventList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/coffeeEventList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 315,
+            "modifiedTime": 1594327778992,
+            "changeTime": 1594327778992,
+            "contentHash": "c68e02827c67647b537fd47fe9fbb7f8ddde1fc4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/coffeeEventRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/coffeeEventRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 330,
+            "modifiedTime": 1594327778992,
+            "changeTime": 1594327778992,
+            "contentHash": "f6bd610ce271d121341e24e8b1e437772fd69a06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/contactSupport.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/contactSupport.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 315,
+            "modifiedTime": 1594327778993,
+            "changeTime": 1594327778993,
+            "contentHash": "111e9b287991c905f5c7aa4bbfa412a5d859d9b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/contactezLeSupport.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/contactezLeSupport.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 339,
+            "modifiedTime": 1594327778994,
+            "changeTime": 1594327778994,
+            "contentHash": "6f16f18a0fa4648b843f4930aef818ead69b5c80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/createRecord.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/createRecord.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 279,
+            "modifiedTime": 1594327778995,
+            "changeTime": 1594327778995,
+            "contentHash": "1c79b438827e0c10dee47ca5b7f627fb3f798b10",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/dashboardDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/dashboardDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 277,
+            "modifiedTime": 1594327778998,
+            "changeTime": 1594327778998,
+            "contentHash": "449d7b8b7885bf1fc38519945fc772fb37637fb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/dashboardList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/dashboardList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 273,
+            "modifiedTime": 1594327778999,
+            "changeTime": 1594327778999,
+            "contentHash": "957698cbff694d390ce703b92d80f26162f25404",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/dashboardRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/dashboardRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1594327779000,
+            "changeTime": 1594327779000,
+            "contentHash": "0536b33d4291bc02611d60697196c52113c51b7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/error.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/error.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 287,
+            "modifiedTime": 1594327779001,
+            "changeTime": 1594327779001,
+            "contentHash": "059e0ca1d999ecc04f72d897636935602f522ab7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/feedDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/feedDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 273,
+            "modifiedTime": 1594327779001,
+            "changeTime": 1594327779001,
+            "contentHash": "3189f8a4cb4cbf008d8684265191bf49b42cdf4c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/fileDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/fileDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 278,
+            "modifiedTime": 1594327779002,
+            "changeTime": 1594327779002,
+            "contentHash": "e6acb219539e4e38652d66a13884856957002477",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/fileList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/fileList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 274,
+            "modifiedTime": 1594327779003,
+            "changeTime": 1594327779003,
+            "contentHash": "4d7ee0ead3b19d8c22f0476da8354cb15414dc2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/fileRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/fileRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 289,
+            "modifiedTime": 1594327779004,
+            "changeTime": 1594327779004,
+            "contentHash": "1d2b8e7ad975d11d141ef6550c5f212d851e03e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/flow.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/flow.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 284,
+            "modifiedTime": 1594327779005,
+            "changeTime": 1594327779005,
+            "contentHash": "9105c897129f11a2dfd77c46bfdc0eadea28290e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/forgotPassword.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/forgotPassword.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 286,
+            "modifiedTime": 1594327779006,
+            "changeTime": 1594327779006,
+            "contentHash": "fba5e98714e3f5b838271f9532e62718038649ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/groupDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/groupDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 269,
+            "modifiedTime": 1594327779008,
+            "changeTime": 1594327779008,
+            "contentHash": "567723a8536ce2219fa48f8cd88606916a1a6e61",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/groupList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/groupList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 265,
+            "modifiedTime": 1594327779009,
+            "changeTime": 1594327779009,
+            "contentHash": "2c222fe871a54ca1a72ed0d19ae34ff9b5738d54",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/groupRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/groupRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 280,
+            "modifiedTime": 1594327779010,
+            "changeTime": 1594327779010,
+            "contentHash": "d4556eb495f9807796352d3854d30b9b86dc45e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/home.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/home.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 280,
+            "modifiedTime": 1594327779011,
+            "changeTime": 1594327779011,
+            "contentHash": "26a97b4fad5ac72930cfba4f9f4cb68229fca28a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/imageDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/imageDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 318,
+            "modifiedTime": 1594327779017,
+            "changeTime": 1594327779017,
+            "contentHash": "a47987d1cc8bbfcbc8f74504560de680baa93a86",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/locationsDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/locationsDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 322,
+            "modifiedTime": 1594327779018,
+            "changeTime": 1594327779018,
+            "contentHash": "6860b1c94bff1dedaa90e65cb7546c53c4b97a02",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/login.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/login.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 257,
+            "modifiedTime": 1594327779019,
+            "changeTime": 1594327779019,
+            "contentHash": "e3108094ad0c782a5b606f28474d64b405151e0a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/loginError.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/loginError.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 269,
+            "modifiedTime": 1594327779021,
+            "changeTime": 1594327779021,
+            "contentHash": "5ab28ca56f1e23d01b3c71fc014cb8abb0c6fb69",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/messages.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/messages.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 266,
+            "modifiedTime": 1594327779022,
+            "changeTime": 1594327779022,
+            "contentHash": "c350144210824e093cc5528fea968efb842d39d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/myAccount.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/myAccount.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 302,
+            "modifiedTime": 1594327779024,
+            "changeTime": 1594327779024,
+            "contentHash": "5285a42fd88a36d0bb10e725aedc4c473275601e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/myCapricorn.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/myCapricorn.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 327,
+            "modifiedTime": 1594327779025,
+            "changeTime": 1594327779025,
+            "contentHash": "243b2cec98e9b9855f9621352c5aac5b52f1c3ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/myFelxiPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/myFelxiPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 312,
+            "modifiedTime": 1594327779029,
+            "changeTime": 1594327779029,
+            "contentHash": "20a20ac047544c7c451d0cdec79f464e66a6f0ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/myPageTest.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/myPageTest.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 299,
+            "modifiedTime": 1594327779031,
+            "changeTime": 1594327779031,
+            "contentHash": "c7c7710cc9eecf2c37d286fc85126b6de1f3c0ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/newsDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/newsDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 307,
+            "modifiedTime": 1594327779032,
+            "changeTime": 1594327779032,
+            "contentHash": "d7120342fc864aa7f3b7dcca429e243ce01f4645",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/opportunityDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/opportunityDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 281,
+            "modifiedTime": 1594327779033,
+            "changeTime": 1594327779033,
+            "contentHash": "c77ac49adea86120d4ee9da6bb5a1628cf781eb6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/opportunityList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/opportunityList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 277,
+            "modifiedTime": 1594327779034,
+            "changeTime": 1594327779034,
+            "contentHash": "237dd5fe6f9233c9bc77f49fccdeee3ef4b833c8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/opportunityRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/opportunityRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1594327779035,
+            "changeTime": 1594327779035,
+            "contentHash": "7c9c252f0ee813b40c48380e882847b2dc49f118",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/orderConfirmation.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/orderConfirmation.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 333,
+            "modifiedTime": 1594327779036,
+            "changeTime": 1594327779036,
+            "contentHash": "350c9aaa21cb3652659c1578bbd8df8da7947f68",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/productDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/productDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 318,
+            "modifiedTime": 1594327779037,
+            "changeTime": 1594327779037,
+            "contentHash": "9efc24e466e32cb5b0e510dbd19a2c48c0024acd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/productDetail_1.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/productDetail_1.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 326,
+            "modifiedTime": 1594327779038,
+            "changeTime": 1594327779038,
+            "contentHash": "83467752de85506d5dee043328a5092e851dec9d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/promotionWithProductsList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/promotionWithProductsList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 337,
+            "modifiedTime": 1594327779041,
+            "changeTime": 1594327779041,
+            "contentHash": "de59731b6d4bcf2198b0d6378ac09c1c2227e938",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/questionDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/questionDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 273,
+            "modifiedTime": 1594327779041,
+            "changeTime": 1594327779041,
+            "contentHash": "092a1625a7bde6d0a44cf538631fa302ce7ccba6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/quipDocsRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/quipDocsRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 313,
+            "modifiedTime": 1594327779042,
+            "changeTime": 1594327779042,
+            "contentHash": "40f3eaeb8864dae0a7b5e0caf3c09cbe89973d15",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/recordDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/recordDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 267,
+            "modifiedTime": 1594327779043,
+            "changeTime": 1594327779043,
+            "contentHash": "155943de072704eb4a0f79e129cd713b4ee3f907",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/recordList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/recordList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 297,
+            "modifiedTime": 1594327779044,
+            "changeTime": 1594327779044,
+            "contentHash": "b745dc93180e3fc9fe85a24937e119778bcfa112",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/register.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/register.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 275,
+            "modifiedTime": 1594327779045,
+            "changeTime": 1594327779045,
+            "contentHash": "6f32244b9f77310be2f4062f67af63c5c84ee6da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/relatedRecordList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/relatedRecordList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 313,
+            "modifiedTime": 1594327779046,
+            "changeTime": 1594327779046,
+            "contentHash": "84f5fea0dd6e8a88bc2ac61ba6310374473971df",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/reportBuilder.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/reportBuilder.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 280,
+            "modifiedTime": 1594327779047,
+            "changeTime": 1594327779047,
+            "contentHash": "e65abfaf7aa49b6558ce9d3fdc83ee0eadf39ae0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/reportDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/reportDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 271,
+            "modifiedTime": 1594327779048,
+            "changeTime": 1594327779048,
+            "contentHash": "32a56bee274f70b8cb72188283021d74af8a4e62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/reportList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/reportList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 267,
+            "modifiedTime": 1594327779050,
+            "changeTime": 1594327779050,
+            "contentHash": "aad66eb8b97a593eec31d3a65ecf74087401329d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/reportRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/reportRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 282,
+            "modifiedTime": 1594327779051,
+            "changeTime": 1594327779051,
+            "contentHash": "63713276607aa02c9495949c85d694ac4aa85be8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/search.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/search.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 304,
+            "modifiedTime": 1594327779053,
+            "changeTime": 1594327779053,
+            "contentHash": "c2f248afae553614940be4c37534c1ab34ed2463",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/streamDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/streamDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1594327779054,
+            "changeTime": 1594327779054,
+            "contentHash": "6a8a6f32b3c9a2ae7c184b54d7fd9257707ba341",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/streamList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/streamList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 268,
+            "modifiedTime": 1594327779055,
+            "changeTime": 1594327779055,
+            "contentHash": "1621ca4d4284db38691e3a4627118f6ee96a5b5b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/streamRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/streamRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 283,
+            "modifiedTime": 1594327779056,
+            "changeTime": 1594327779056,
+            "contentHash": "cf096d3d373d91a527a820b699b5ef027b0fd058",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/sweepstakesDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/sweepstakesDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 333,
+            "modifiedTime": 1594327779057,
+            "changeTime": 1594327779057,
+            "contentHash": "fb9d6fb8d375c6f88cd2284c58fa208dd363011e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/test.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/test.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 291,
+            "modifiedTime": 1594327779058,
+            "changeTime": 1594327779058,
+            "contentHash": "bc8a6147721b32bdf4f503e86eced0ef589bf0b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/topArticles.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/topArticles.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 307,
+            "modifiedTime": 1594327779059,
+            "changeTime": 1594327779059,
+            "contentHash": "39469103906ada7c4c21bd1bc11a1192bd88d364",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/topicCatalog.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/topicCatalog.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 310,
+            "modifiedTime": 1594327779060,
+            "changeTime": 1594327779060,
+            "contentHash": "7fe7455deabf8a3559607a0d6459172581743fdf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/topicDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/topicDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 264,
+            "modifiedTime": 1594327779061,
+            "changeTime": 1594327779061,
+            "contentHash": "a87573a796213bd65878df6b02a3b46983f875ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/userList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/userList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 266,
+            "modifiedTime": 1594327779062,
+            "changeTime": 1594327779062,
+            "contentHash": "26cdd97cc07bff9c8445fb7cebd0387246181ed5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/userProfile.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/userProfile.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 271,
+            "modifiedTime": 1594327779063,
+            "changeTime": 1594327779063,
+            "contentHash": "f94faf39520319d3b16cdb2fa3b711c83f0052b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/userRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/userRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 281,
+            "modifiedTime": 1594327779064,
+            "changeTime": 1594327779064,
+            "contentHash": "2318b0a371f927e58ed8deee6392094163cef19b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/userSettings.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/routes/userSettings.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 275,
+            "modifiedTime": 1594327779065,
+            "changeTime": 1594327779065,
+            "contentHash": "62ccbcc82b28168bfff1e6470371392a653f1db0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/themes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/themes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1594327778997,
+            "changeTime": 1594327778997,
+            "contentHash": "223eca5f7973b9fd7dc73a3eb2815760e0d33aa7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/themes/customerService.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/themes/customerService.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4160,
+            "modifiedTime": 1594327778996,
+            "changeTime": 1594327778996,
+            "contentHash": "84a6721370da5c696cfe314fbf0fe5d12fabc171",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/themes/cypress.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/themes/cypress.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 106791,
+            "modifiedTime": 1594327778997,
+            "changeTime": 1594327778997,
+            "contentHash": "39efc75cf68fbbb64f01b44fc229b688cd47e799",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1594327779029,
+            "changeTime": 1594327779029,
+            "contentHash": "f8e37d7add05aa22b6e8b005e9730cf2210a8be2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/homeForPlatinumMembersSectionComponent.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/homeForPlatinumMembersSectionComponent.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 387,
+            "modifiedTime": 1594327779014,
+            "changeTime": 1594327779014,
+            "contentHash": "6bd25ac82528bc5a8965ddd21e89494b20edc4b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/homeHomeForGoldMembersPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/homeHomeForGoldMembersPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 412,
+            "modifiedTime": 1594327779015,
+            "changeTime": 1594327779015,
+            "contentHash": "b363733fab17b357552ec5c933aed2052d6911fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/homeHomeForPlatinumMembersPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/homeHomeForPlatinumMembersPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1594327779015,
+            "changeTime": 1594327779015,
+            "contentHash": "f4d6b8bbeee23942f9141e9d896bb592600f04a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/homeHomeForSilverMembersPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/homeHomeForSilverMembersPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 414,
+            "modifiedTime": 1594327779016,
+            "changeTime": 1594327779016,
+            "contentHash": "d7b5d537dab3a2bd59bf8a16512a20be2886bffc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/myCapricornForPlatinumMembersCMSCollectionComponent.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/myCapricornForPlatinumMembersCMSCollectionComponent.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402,
+            "modifiedTime": 1594327779028,
+            "changeTime": 1594327779028,
+            "contentHash": "5ab7ab01abb0aa58af7341a8a77c74183340f993",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/myCapricornMyCapricornForGoldMembersPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/myCapricornMyCapricornForGoldMembersPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 428,
+            "modifiedTime": 1594327779028,
+            "changeTime": 1594327779028,
+            "contentHash": "c292ed3cff638a3b59b910f4332a2a264fb4ed93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/myCapricornMyCapricornForPlatinumMembersPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/variations/myCapricornMyCapricornForPlatinumMembersPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 432,
+            "modifiedTime": 1594327779029,
+            "changeTime": 1594327779029,
+            "contentHash": "97a87475b63ce2e827487ed415886d2f93520fbf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 2592,
+            "modifiedTime": 1594327779066,
+            "changeTime": 1594327779066,
+            "contentHash": "57ea58aa49f843364460e7639ceb371a23c23280",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/accountManagement.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/accountManagement.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3925,
+            "modifiedTime": 1594327778983,
+            "changeTime": 1594327778983,
+            "contentHash": "68b82be6cafccaa1b9725b0e9f0ab818aee8f813",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/allBlogsFinal.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/allBlogsFinal.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5904,
+            "modifiedTime": 1594327778984,
+            "changeTime": 1594327778984,
+            "contentHash": "ce631831537beaa147eed7c337000f9091834548",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/articleDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/articleDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5475,
+            "modifiedTime": 1594327778985,
+            "changeTime": 1594327778985,
+            "contentHash": "ad8dc85ab96feb1267c87746d0c6259a39ebe8eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/bannerDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/bannerDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2073,
+            "modifiedTime": 1594327778986,
+            "changeTime": 1594327778986,
+            "contentHash": "3123284c61c64a1579dd7881ab438d4a137efc0b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/blogsDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/blogsDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4427,
+            "modifiedTime": 1594327778986,
+            "changeTime": 1594327778986,
+            "contentHash": "c6ec7029fbe3ddd7fa64fcaf61e2f64ca7b1401f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/caseDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/caseDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2603,
+            "modifiedTime": 1594327778988,
+            "changeTime": 1594327778988,
+            "contentHash": "ce3970ec79261ac2d458ec10fd36c75b4eef7077",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/caseList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/caseList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1341,
+            "modifiedTime": 1594327778989,
+            "changeTime": 1594327778989,
+            "contentHash": "e90885ae105d186fa7e915070cf690ee0d8c34c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/caseRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/caseRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1158,
+            "modifiedTime": 1594327778989,
+            "changeTime": 1594327778989,
+            "contentHash": "ba940a435b810421f100348e6f77e16a1a0c8d4b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/checkPassword.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/checkPassword.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2155,
+            "modifiedTime": 1594327778990,
+            "changeTime": 1594327778990,
+            "contentHash": "80bd9a70ad34ecdb21da162b5f064a71aa003f94",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/checkout.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/checkout.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5212,
+            "modifiedTime": 1594327778991,
+            "changeTime": 1594327778991,
+            "contentHash": "4403d4a828139d0f9c6bdbf2498b78a16c31bd11",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/coffeeEventDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/coffeeEventDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1080,
+            "modifiedTime": 1594327778991,
+            "changeTime": 1594327778991,
+            "contentHash": "1c2f0a3e1299cf39b6bcbe1c53bc3cf1b7be89e8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/coffeeEventList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/coffeeEventList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 612,
+            "modifiedTime": 1594327778992,
+            "changeTime": 1594327778992,
+            "contentHash": "74dcd393b93b98dbcad82bf28d179d5cb6b53641",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/coffeeEventRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/coffeeEventRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 627,
+            "modifiedTime": 1594327778993,
+            "changeTime": 1594327778993,
+            "contentHash": "760a4399338356355d0f1665a64b912d4ef606a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/contactSupport.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/contactSupport.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3077,
+            "modifiedTime": 1594327778993,
+            "changeTime": 1594327778993,
+            "contentHash": "70052d3379b311b4799992f545cddff2e245892a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/contactezLeSupport.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/contactezLeSupport.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1084,
+            "modifiedTime": 1594327778994,
+            "changeTime": 1594327778994,
+            "contentHash": "89921c704c2e7df9d2ee18f431aa261010bb0525",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/costaRica.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/costaRica.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5580,
+            "modifiedTime": 1594327778994,
+            "changeTime": 1594327778994,
+            "contentHash": "21841e2711028794f13dbb623616a976edb4f7f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/createRecord.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/createRecord.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 934,
+            "modifiedTime": 1594327778995,
+            "changeTime": 1594327778995,
+            "contentHash": "3c6bc59804ad4a3f4ea90bcb7262f3f1bfe8e881",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/dashboardDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/dashboardDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2751,
+            "modifiedTime": 1594327778998,
+            "changeTime": 1594327778998,
+            "contentHash": "5c2b24c77e7dea5341ecd6004d35b91661b5517f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/dashboardList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/dashboardList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 877,
+            "modifiedTime": 1594327778999,
+            "changeTime": 1594327778999,
+            "contentHash": "37f6873b17c17b7f08f9bcfa37bb33bcd29ea47b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/dashboardRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/dashboardRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1163,
+            "modifiedTime": 1594327779000,
+            "changeTime": 1594327779000,
+            "contentHash": "4d5d2b1a3d033d1b85beeb2799294c384011cfdc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/error.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/error.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1386,
+            "modifiedTime": 1594327779001,
+            "changeTime": 1594327779001,
+            "contentHash": "b4b9aba47a0527b1ed459b5b29fcffafedfce94a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/feedDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/feedDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 918,
+            "modifiedTime": 1594327779002,
+            "changeTime": 1594327779002,
+            "contentHash": "ad3ff19a22d83aded490f4a4a45dcae961919116",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/fileDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/fileDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 877,
+            "modifiedTime": 1594327779003,
+            "changeTime": 1594327779003,
+            "contentHash": "c5dac6d2e7be012e32c7bec8179d9a07a4a0ce23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/fileList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/fileList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 898,
+            "modifiedTime": 1594327779004,
+            "changeTime": 1594327779004,
+            "contentHash": "f4bdc848f50d408f78de202c6a0434224acd16a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/fileRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/fileRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1158,
+            "modifiedTime": 1594327779005,
+            "changeTime": 1594327779005,
+            "contentHash": "77e0bb963bf7725f760997b237835498bcfc851e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/flow.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/flow.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 970,
+            "modifiedTime": 1594327779006,
+            "changeTime": 1594327779006,
+            "contentHash": "e022a58587e8e7678523ddac7d82ae050ce60586",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/forgotPassword.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/forgotPassword.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2447,
+            "modifiedTime": 1594327779007,
+            "changeTime": 1594327779007,
+            "contentHash": "1852557dd3b827f0b83e5fe5db5ba44745bcde33",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/frenchContactSupport.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/frenchContactSupport.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3082,
+            "modifiedTime": 1594327779007,
+            "changeTime": 1594327779007,
+            "contentHash": "18d17bbba3c42a4b45e97cb4b53d1ad401e29cd9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/groupDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/groupDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1586,
+            "modifiedTime": 1594327779008,
+            "changeTime": 1594327779008,
+            "contentHash": "792f3af2ef5f109756aabfe243000600ea8e7b64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/groupList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/groupList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 875,
+            "modifiedTime": 1594327779010,
+            "changeTime": 1594327779010,
+            "contentHash": "3e544352f97b86d5187835c9a94a5a784f479c46",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/groupRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/groupRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1159,
+            "modifiedTime": 1594327779011,
+            "changeTime": 1594327779011,
+            "contentHash": "d440341f78e282e52bccb53d80015bbc03ae5822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/homeForGoldMembers.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/homeForGoldMembers.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 29295,
+            "modifiedTime": 1594327779012,
+            "changeTime": 1594327779012,
+            "contentHash": "f2e9f99425ac207e85fcdb4ede221bf53cc843f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/homeForGuestUsers.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/homeForGuestUsers.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 36797,
+            "modifiedTime": 1594327779012,
+            "changeTime": 1594327779012,
+            "contentHash": "ae31c2b40e21acdc568ce143d6585c898e5a0352",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/homeForPlatinumMembers.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/homeForPlatinumMembers.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 35006,
+            "modifiedTime": 1594327779013,
+            "changeTime": 1594327779013,
+            "contentHash": "c445bfdd26f35c43dc82aa9a1c34ac35abc77a0b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/homeForSilverMembers.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/homeForSilverMembers.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 30054,
+            "modifiedTime": 1594327779014,
+            "changeTime": 1594327779014,
+            "contentHash": "d789195b648a3cab31a5af52a18571a8ca8fc21b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/imageDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/imageDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2624,
+            "modifiedTime": 1594327779017,
+            "changeTime": 1594327779017,
+            "contentHash": "b8656a68124807e98d65c79ce066f855328959b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/locationsDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/locationsDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1948,
+            "modifiedTime": 1594327779019,
+            "changeTime": 1594327779019,
+            "contentHash": "aca6eb1270c5e915650252442c6f4d761fc97205",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/login.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/login.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2316,
+            "modifiedTime": 1594327779020,
+            "changeTime": 1594327779020,
+            "contentHash": "56f56378f619c0f1f4709834c2462ff3e0246d6b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/loginError.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/loginError.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1406,
+            "modifiedTime": 1594327779021,
+            "changeTime": 1594327779021,
+            "contentHash": "f431ae702645e9b94627139e79adf18d3bfcf0e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/messages.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/messages.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 646,
+            "modifiedTime": 1594327779023,
+            "changeTime": 1594327779023,
+            "contentHash": "ae7dcd71e4230fc951c284002497c2babf212992",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myAccount.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myAccount.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3088,
+            "modifiedTime": 1594327779024,
+            "changeTime": 1594327779024,
+            "contentHash": "d1b3f45da12c5436f29a5eed59b74bfae621e730",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myCapricornForGoldMembers.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myCapricornForGoldMembers.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 20102,
+            "modifiedTime": 1594327779026,
+            "changeTime": 1594327779026,
+            "contentHash": "e6c61aab5d4fb701da9c21c2b822c54c08cd62ac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myCapricornForGuests.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myCapricornForGuests.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 21383,
+            "modifiedTime": 1594327779026,
+            "changeTime": 1594327779026,
+            "contentHash": "3df83be044438a93a2934ab41c14ce46cddd5b8b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myCapricornForPlatinumMembers.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myCapricornForPlatinumMembers.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 23537,
+            "modifiedTime": 1594327779027,
+            "changeTime": 1594327779027,
+            "contentHash": "82cba482169164f13a15c7ee0f51ee6b1829fe66",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myFelxiPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myFelxiPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1814,
+            "modifiedTime": 1594327779030,
+            "changeTime": 1594327779030,
+            "contentHash": "34fc7251b9ae7ac045db71bd250f24e1dc07d757",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myPageTest.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/myPageTest.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3437,
+            "modifiedTime": 1594327779031,
+            "changeTime": 1594327779031,
+            "contentHash": "373a6c1bdf75ea6f2c8caadd19e7ec0f6ea21f7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/newsDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/newsDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3930,
+            "modifiedTime": 1594327779032,
+            "changeTime": 1594327779032,
+            "contentHash": "0de87d3f56f5bbce9b629040c8fac3edc89c95e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/opportunityDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/opportunityDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1959,
+            "modifiedTime": 1594327779034,
+            "changeTime": 1594327779034,
+            "contentHash": "8567d68d2f1a8023dd9ae333a9d111fde9d90d94",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/opportunityList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/opportunityList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1348,
+            "modifiedTime": 1594327779035,
+            "changeTime": 1594327779035,
+            "contentHash": "9da546d75ab318897a8fa2702a17346d080c88af",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/opportunityRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/opportunityRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1165,
+            "modifiedTime": 1594327779036,
+            "changeTime": 1594327779036,
+            "contentHash": "34ed3f88bdff26c3d30a58edfc24459093d8d50b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/orderConfirmation.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/orderConfirmation.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10553,
+            "modifiedTime": 1594327779037,
+            "changeTime": 1594327779037,
+            "contentHash": "838a25e8a5fe483d4e16654e8054a2556de808b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/productDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/productDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 11125,
+            "modifiedTime": 1594327779038,
+            "changeTime": 1594327779038,
+            "contentHash": "7b2b4a95331c29005cfe78ad27efc1487fbaa3ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/productDetailTest.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/productDetailTest.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 25537,
+            "modifiedTime": 1594327779039,
+            "changeTime": 1594327779039,
+            "contentHash": "2ba4b3163843a72360908194f5aea1f34b688218",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/productsWithoutPromo.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/productsWithoutPromo.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9287,
+            "modifiedTime": 1594327779039,
+            "changeTime": 1594327779039,
+            "contentHash": "0946c48b25e9b767e4313a8c4da591fdbee3dbda",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/promotionOffer.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/promotionOffer.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 13897,
+            "modifiedTime": 1594327779040,
+            "changeTime": 1594327779040,
+            "contentHash": "090c0ed8d8e3923cabbdad81bd024e9d86793d41",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/questionDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/questionDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4660,
+            "modifiedTime": 1594327779042,
+            "changeTime": 1594327779042,
+            "contentHash": "66ccddfb7fd91b94700c0e6e3a5567d9a827ff1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/quipDocsRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/quipDocsRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 946,
+            "modifiedTime": 1594327779043,
+            "changeTime": 1594327779043,
+            "contentHash": "bea78c3c9e1988a85abee5ee146250535be3d03e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/recordDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/recordDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1950,
+            "modifiedTime": 1594327779044,
+            "changeTime": 1594327779044,
+            "contentHash": "87a6ef2c89374b6d499a2d19ad1472bed30c2e30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/recordList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/recordList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1339,
+            "modifiedTime": 1594327779045,
+            "changeTime": 1594327779045,
+            "contentHash": "be4a3576416958a90cd08207295b7aef02333866",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/register.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/register.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2830,
+            "modifiedTime": 1594327779046,
+            "changeTime": 1594327779046,
+            "contentHash": "e6dcb6024f1607db61883b5feb1229df5ad1f3a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/relatedRecordList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/relatedRecordList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1156,
+            "modifiedTime": 1594327779047,
+            "changeTime": 1594327779047,
+            "contentHash": "f3627644482a60ba06b328e9b26e780ab0428666",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/reportBuilder.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/reportBuilder.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 922,
+            "modifiedTime": 1594327779048,
+            "changeTime": 1594327779048,
+            "contentHash": "5d17fe2c53e953306df01de3d5d10b5f86efc7e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/reportDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/reportDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2722,
+            "modifiedTime": 1594327779049,
+            "changeTime": 1594327779049,
+            "contentHash": "88b73f9e44d2de3e81445c3b5c31e717999196db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/reportList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/reportList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 871,
+            "modifiedTime": 1594327779050,
+            "changeTime": 1594327779050,
+            "contentHash": "a1a0676eb0b652d97a3c140a8e792e3e9b4ecf64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/reportRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/reportRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1160,
+            "modifiedTime": 1594327779052,
+            "changeTime": 1594327779052,
+            "contentHash": "9626de9c13e17c6ac129343a8d66f52e6809dde2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/search.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/search.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1320,
+            "modifiedTime": 1594327779053,
+            "changeTime": 1594327779053,
+            "contentHash": "f53a38b844c7dee192472ce819d16a111af60763",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/streamDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/streamDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 912,
+            "modifiedTime": 1594327779054,
+            "changeTime": 1594327779054,
+            "contentHash": "a4bdb09da8d12973d582df1584e70b0dcc454b83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/streamList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/streamList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 653,
+            "modifiedTime": 1594327779055,
+            "changeTime": 1594327779055,
+            "contentHash": "1048261042fb56ed2794135af53b39c506450a0f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/streamRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/streamRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 622,
+            "modifiedTime": 1594327779056,
+            "changeTime": 1594327779056,
+            "contentHash": "f0364c120311e7edacb19608f0e109d8c0f16e49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/sweepstakesDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/sweepstakesDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9785,
+            "modifiedTime": 1594327779057,
+            "changeTime": 1594327779057,
+            "contentHash": "f56e326c66cf99dddb9b444d963fbd09f63bd1ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/test.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/test.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12017,
+            "modifiedTime": 1594327779058,
+            "changeTime": 1594327779058,
+            "contentHash": "5943c3bfbefb7f4078b9a3b7f09ab023418429bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/testPage.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/testPage.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4822,
+            "modifiedTime": 1594327779059,
+            "changeTime": 1594327779059,
+            "contentHash": "1ac89a37b90edd25ef942e780c9192139f3d0beb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/topArticles.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/topArticles.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1447,
+            "modifiedTime": 1594327779060,
+            "changeTime": 1594327779060,
+            "contentHash": "623217b3be411d6ef61ec8f74a389440b00b6c04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/topicCatalog.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/topicCatalog.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3442,
+            "modifiedTime": 1594327779061,
+            "changeTime": 1594327779061,
+            "contentHash": "465662fd14f26d72fa3982bfb27cf4d6a23a28ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/topicDetail.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/topicDetail.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 7520,
+            "modifiedTime": 1594327779062,
+            "changeTime": 1594327779062,
+            "contentHash": "b8e6ee5f054df24b7482e279a65035ea155920e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/userList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/userList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 605,
+            "modifiedTime": 1594327779063,
+            "changeTime": 1594327779063,
+            "contentHash": "a8854e8c81207cb3ae11b09aa712de4a9f33bdf8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/userProfile.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/userProfile.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1653,
+            "modifiedTime": 1594327779064,
+            "changeTime": 1594327779064,
+            "contentHash": "967d51a0d0bad54e7952d8de68fca4bf7bf69987",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/userRelatedList.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/userRelatedList.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1158,
+            "modifiedTime": 1594327779065,
+            "changeTime": 1594327779065,
+            "contentHash": "813206ca9eb7c2566d42984a33a1ae8cd9f1694a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/userSettings.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C/views/userSettings.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1875,
+            "modifiedTime": 1594327779066,
+            "changeTime": 1594327779066,
+            "contentHash": "2b2a9d537f85fcbcca5ebed39774b6048ac24707",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C.site-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/experiences/Capricorn_Coffee_C.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1594327778979,
+            "changeTime": 1594327778979,
+            "contentHash": "e9a78bcf0c3f3b382c5e50439698f77b4fec9dc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780352,
+            "changeTime": 1592508780352,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780352,
+            "changeTime": 1592508780352,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1592508796125,
+            "changeTime": 1592508796125,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/networks",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/networks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1592509000234,
+            "changeTime": 1592509000234,
+            "contentHash": "3f42f6bc556b563b2ecc3f37da8f597690c54721",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/networks/Capricorn Coffee.network-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/networks/Capricorn Coffee.network-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2901,
+            "modifiedTime": 1592509000234,
+            "changeTime": 1592509000234,
+            "contentHash": "dccbbcc3ecd34cb1ed476889d2dd879f796ce24f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780352,
+            "changeTime": 1592508780352,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780352,
+            "changeTime": 1592508780352,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/sites",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/sites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1592509019359,
+            "changeTime": 1592509019359,
+            "contentHash": "fc69dcb1f97d7ac5e5066f8ced4fac316e7c8c97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/sites/Capricorn_Coffee.site-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/sites/Capricorn_Coffee.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1712,
+            "modifiedTime": 1592509019359,
+            "changeTime": 1592509019359,
+            "contentHash": "f456033489af239728d013111ad32a28dd455350",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780353,
+            "changeTime": 1592508780353,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780353,
+            "changeTime": 1592508780353,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/triggers",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1592508780353,
+            "changeTime": 1592508780353,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith.shrivastava/Desktop/Projects/testcommProject/projectcommunity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1594327607294,
+            "changeTime": 1594327607294,
+            "contentHash": "82a2d2dcf0aa0800b49678540910a79ed1f390c7",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

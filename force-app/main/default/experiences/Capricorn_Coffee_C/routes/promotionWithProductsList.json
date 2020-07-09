@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "e128fa10-7b68-4431-ab89-90e837da2c12",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "71ce93cd-3120-49b2-9d22-e98727149c25",
+  "label" : "Promotion with Products List",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-promotion-offer",
+  "type" : "route",
+  "urlPrefix" : "promotion-offer"
+}

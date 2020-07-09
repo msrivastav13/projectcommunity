@@ -1,0 +1,36 @@
+{
+  "forgotPasswordRouteId" : "40c75acc-e277-432a-ae9d-d457e5597502",
+  "isAvailableToGuests" : false,
+  "isFilteredComponentsView" : false,
+  "isProgressiveRenderingEnabled" : false,
+  "loginAppPageId" : "4b319dc8-1875-47f6-a5ca-10767560b5f0",
+  "mainAppPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "preferredDomain" : "none",
+  "selfRegistrationRouteId" : "bd5b2c6d-1341-4e9a-90da-2a9f303c12e2",
+  "trustedSitesForScript" : [ {
+    "id" : "28eb7014-53b3-4e41-897c-ff74841a0c36",
+    "isActive" : true,
+    "trustedSiteName" : "d.gla3-dfw.gus.salesforce.com",
+    "trustedSiteUrl" : "https://d.gla3-dfw.gus.salesforce.com/",
+    "type" : "trustedSitesForScripts"
+  }, {
+    "id" : "115ce3a7-7f20-4dd7-9183-cece52c3cf7d",
+    "isActive" : true,
+    "trustedSiteName" : "amazonaws",
+    "trustedSiteUrl" : "https://s3-us-west-1.amazonaws.com",
+    "type" : "trustedSitesForScripts"
+  }, {
+    "id" : "25b33a93-3528-47da-9187-cd0c9e24dc2c",
+    "isActive" : true,
+    "trustedSiteName" : "IS",
+    "trustedSiteUrl" : "https://na5.cdn.thunderhead.com",
+    "type" : "trustedSitesForScripts"
+  }, {
+    "id" : "047e2ad6-3e4c-4d55-a1fe-b8d547915312",
+    "isActive" : true,
+    "trustedSiteName" : "IS 2",
+    "trustedSiteUrl" : "https://na5.thunderhead.com",
+    "type" : "trustedSitesForScripts"
+  } ],
+  "type" : "site"
+}

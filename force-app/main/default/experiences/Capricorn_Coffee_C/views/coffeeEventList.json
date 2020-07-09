@@ -1,0 +1,22 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "684da663-b339-45eb-9692-0d265c197016",
+  "label" : "CoffeeEvent List",
+  "regions" : [ {
+    "id" : "f49038c3-ee76-44b1-873c-1e8fc1b79b4c",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "018d2fb6-4ef5-408b-9958-8416a0193028",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "a08107c4-c9a0-4a0e-8e3f-059d5d38b2fa",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "list-e00"
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "6b825f61-6d61-4732-85c2-dc64b8bf0923",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "6efff5ea-612d-4425-b63a-a543ae2e8729",
+  "label" : "myFelxiPage",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-myfelxipage",
+  "type" : "route",
+  "urlPrefix" : "myfelxipage"
+}

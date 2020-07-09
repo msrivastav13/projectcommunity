@@ -1,0 +1,45 @@
+.THIS .divInlineBlock {
+    display: inline-block;
+    width: 350px;
+    vertical-align: top;
+}
+
+.THIS .spanImg {
+    height: 350px;
+    width: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.THIS .titles{
+    width: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.THIS .whiteSpace{
+    float:left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: auto;
+    margin: 30px;
+}
+
+.THIS .centerContent {
+	text-align: center;
+}
+
+.THIS .leftAlignContent {
+	text-align: left;
+}
+
+.THIS .linkColor {
+    color: rgb(54, 58, 69);
+}
+
+.THIS .headerTitle {
+    font-size: 36px;
+}

@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "522b1e6e-7402-4daf-8e35-55774d281b9f",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "42dd7012-d4bf-4780-aeda-c04022827050",
+  "label" : "Blogs Detail",
+  "pageAccess" : "UseParent",
+  "routeType" : "managed-content-Blogs",
+  "type" : "route",
+  "urlPrefix" : "blogs"
+}

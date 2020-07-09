@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "65971201-cd1d-4e90-b7c1-9b67a4238963",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "a42c2cde-060f-4445-82ee-044a5cf7557d",
+  "label" : "Sweepstakes Detail",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-sweepstakes-detail",
+  "type" : "route",
+  "urlPrefix" : "sweepstakes-detail"
+}

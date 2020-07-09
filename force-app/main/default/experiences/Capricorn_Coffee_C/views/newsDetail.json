@@ -1,0 +1,47 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "f324925e-77b4-4b15-a3b8-495b82698d71",
+  "label" : "News Detail",
+  "regions" : [ {
+    "id" : "0a994752-2b93-40ad-804c-f318671263b0",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "config" : "{\"layoutDefinition\":{\"componentName\":\"forceCommunity:detailLayoutWithSections\",\"attributes\":{\"showTitle\":true,\"showSubTitle\":true,\"showHeaderMetadata\":true,\"showFeaturedSection\":true,\"showFeaturedImage\":true,\"showFeaturedVideo\":true,\"showFeaturedContent\":true,\"showSection1\":false,\"showSection1Title\":true,\"showSection1Image\":true,\"showSection1Content\":true,\"showSection2\":false,\"showSection2Title\":true,\"showSection2Image\":true,\"showSection2Content\":true,\"showFooterMetadata\":false,\"title\":\"{!CurrentItem.title}\",\"subTitle\":\"{!CurrentItem.excerpt}\",\"headerMetadata1Text\":\"\",\"headerMetadata2Text\":\"\",\"headerMetadata3Text\":\"\",\"featuredImageUrl\":\"{!CurrentItem.bannerImage.url}\",\"featuredVideoUrl\":\"\",\"featuredContent\":\"{!CurrentItem.body}\",\"section1Title\":\"\",\"section1ImageUrl\":\"\",\"section1Content\":\"\",\"section2Title\":\"\",\"section2ImageUrl\":\"\",\"section2Content\":\"\",\"footerMetadata1Text\":\"\",\"footerMetadata2Text\":\"\",\"footerMetadata3Text\":\"\",\"headerTextAlignment\":\"center\",\"titleHeadingTag\":\"h2\",\"titleTextColor\":\"\",\"titleFontSize\":\"large\",\"titleTextDecoration\":\"\",\"subTitleTextColor\":\"\",\"subTitleFontSize\":\"regular\",\"subTitleTextDecoration\":\"\",\"headerMetadataTextColor\":\"\",\"headerMetadataFontSize\":\"regular\",\"headerMetadataTextDecoration\":\"\",\"featuredImageLayout\":\"cover\",\"featuredImagePosition\":\"center center\",\"featuredImageHeight\":\"450\",\"featuredImageWidth\":100,\"featuredVideoHeight\":450,\"featuredVideoUseAspectRatio\":false,\"featuredVideoAspectRatio\":\"16:9\",\"section1TitleTextColor\":\"\",\"section1TitleFontSize\":\"regular\",\"section1TitleTextDecoration\":\"\",\"section1ImageLayout\":\"cover\",\"section1ImagePosition\":\"center center\",\"section1ImageAlignment\":\"center\",\"section1ImageHeight\":\"450\",\"section1ImageWidth\":50,\"section1ImageOffset\":\"medium\",\"section1ImageBorderColor\":\"#ffffff\",\"section1ImageBorderStyles\":\"\",\"section2TitleTextColor\":\"\",\"section2TitleFontSize\":\"regular\",\"section2TitleTextDecoration\":\"\",\"section2ImageLayout\":\"cover\",\"section2ImagePosition\":\"center center\",\"section2ImageAlignment\":\"center\",\"section2ImageHeight\":\"450\",\"section2ImageWidth\":50,\"section2ImageOffset\":\"medium\",\"section2ImageBorderColor\":\"#ffffff\",\"section2ImageBorderStyles\":\"\",\"footerMetadataTextColor\":\"\",\"footerMetadataFontSize\":\"regular\",\"footerMetadataTextDecoration\":\"\"}},\"schemaVersion\":\"V2.0\"}"
+      },
+      "componentName" : "forceCommunity:managedContentDetail",
+      "id" : "ae57234d-f11c-4a19-82f1-8467ac5d3da2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "97f65483-3974-4b4c-9c0b-d26ad4c7cc56",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "833ecf2d-dd27-4465-92e3-57365e8c2cc4",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : ""
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "591574aa-012a-4849-b160-a6905f7e2e09",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8603cc7a-5940-4032-9a95-b6a04879a0a6",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "TaiTmllk4EKHEZcLIVASbqLZ01ROfO",
+  "type" : "view",
+  "viewType" : "managed-content-news"
+}

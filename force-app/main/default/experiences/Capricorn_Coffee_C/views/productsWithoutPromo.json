@@ -1,0 +1,178 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:dynamicLayout",
+  "id" : "0532b3e2-41be-4705-a79b-a85465b2ec6b",
+  "label" : "Products without Promo",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "4d416509-8151-4630-ba24-07862cc8634d",
+          "columns" : [ {
+            "UUID" : "72b5d5c3-8969-422b-a2f8-059ddc25562b",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "790bb8b6-57f4-4de5-95b7-b613c61a440e",
+            "columnName" : "Column 2",
+            "columnKey" : "025d9",
+            "columnWidth" : "10",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "f2632c9f-7fd7-4a96-bba2-009802b0f4b7",
+            "columnName" : "Column 3",
+            "columnKey" : "b517b",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 32
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "4d416509-8151-4630-ba24-07862cc8634d",
+      "regions" : [ {
+        "id" : "72b5d5c3-8969-422b-a2f8-059ddc25562b",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><span style=\"font-size: 36px;\">Shop</span></p><p><br></p><p> </p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "fd847026-7da1-449e-a5a3-6abb4cb801f5",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "790bb8b6-57f4-4de5-95b7-b613c61a440e",
+        "regionLabel" : "Column 2",
+        "regionName" : "025d9",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "id" : "f2632c9f-7fd7-4a96-bba2-009802b0f4b7",
+        "regionLabel" : "Column 3",
+        "regionName" : "b517b",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "0f93666b-0a9c-47f4-89bc-d63f5573b170",
+          "columns" : [ {
+            "UUID" : "5898adc5-7a75-46f6-ab27-c48987ac52b3",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "0a948dfb-9a80-4d2e-b780-8bb2e3a2552a",
+            "columnName" : "Column 2",
+            "columnKey" : "e5aed",
+            "columnWidth" : "2",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "5dd9b57c-86cb-47ce-bd42-d9667b2ff7ef",
+            "columnName" : "Column 3",
+            "columnKey" : "0c3dc",
+            "columnWidth" : "8",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "a9742ffe-7999-4c62-a7ad-36f6b1904461",
+            "columnName" : "Column 4",
+            "columnKey" : "2b595",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "0f93666b-0a9c-47f4-89bc-d63f5573b170",
+      "regions" : [ {
+        "id" : "5898adc5-7a75-46f6-ab27-c48987ac52b3",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p><b>FILTER BY</b></p><p><br></p><p><b style=\"color: rgb(102, 163, 224);\">All</b></p><p><br></p><p>Grinders</p><p><br></p><p>&nbsp;Brewing</p><p><br></p><p>&nbsp;Coffee Essentials</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "2361f438-ab10-4a78-843c-999efd68a7ec",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "0a948dfb-9a80-4d2e-b780-8bb2e3a2552a",
+        "regionLabel" : "Column 2",
+        "regionName" : "e5aed",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "config" : "{\"dataProviderDefinition\":{\"componentName\":\"forceCommunity:managedContentCollectionDataProvider\",\"attributes\":{\"dataProviderType\":\"NamedCollection\",\"dataProviderInfo\":{\"apiName\":\"Promotion_Detail_Products\"}}},\"schemaVersion\":\"V2.0\",\"collectionLayoutDefinition\":{\"componentName\":\"forceCommunity:dynamicCollectionGrid\",\"attributes\":{\"columns\":\"3\",\"rows\":\"4\",\"spacing\":\"medium\",\"showCollectionTitle\":false,\"collectionTitle\":\"\",\"showViewMoreButton\":true,\"viewMoreButtonLabel\":\"View More Items\",\"viewMoreButtonPlacement\":\"center\",\"viewMoreButtonRadius\":4,\"viewMoreButtonBackgroundColor\":\"\",\"viewMoreButtonBackgroundColorHover\":\"\",\"viewMoreButtonTextColor\":\"\",\"viewMoreButtonTextColorHover\":\"\",\"viewMoreButtonBorderColor\":\"\",\"viewMoreButtonBorderColorHover\":\"\",\"collectionTitleHeadingTag\":\"h2\"}},\"itemLayoutDefinition\":{\"componentName\":\"forceCommunity:flexTileLayout\",\"attributes\":{\"showTitle\":true,\"showFeaturedMedia\":true,\"showExcerpt\":true,\"showFlag\":true,\"showEyebrow\":true,\"showMetadata1\":true,\"showMetadata2\":true,\"title\":\"{!CurrentItem.ProductName}\",\"subTitle\":\"{!CurrentItem.ProductDetail}\",\"imageUrl\":\"{!CurrentItem.ProductImageMain.url}\",\"imageAltText\":\"\",\"videoUrl\":\"\",\"flagText\":\"\",\"eyebrowText\":\"\",\"metadata1Text\":\"\",\"metadata2Text\":\"\",\"textAlignment\":\"left\",\"contentBackgroundColor\":\"#ffffff\",\"componentPadding\":\"none\",\"contentOffset\":\"0\",\"contentOffsetPadding\":\"medium\",\"contentOffsetBackgroundColor\":\"#ffffff\",\"contentWidth\":100,\"contentPosition\":\"center\",\"borderColor\":\"\",\"componentBorderStyles\":\"\",\"useAspectRatio\":false,\"mediaAspectRatio\":\"16:9\",\"mediaHeight\":450,\"backgroundSize\":\"cover\",\"backgroundPosition\":\"center center\",\"imageAlignment\":\"top\",\"imageBorderColor\":\"#ffffff\",\"imageBorderStyles\":\"\",\"flagBackgroundColor\":\"#ff0000\",\"flagTextColor\":\"#ffffff\",\"flagConstraints\":\"media\",\"flagAlignment\":\"top left\",\"flagRotation\":0,\"flagSpacing\":\"medium\",\"flagBorderColor\":\"#ffffff\",\"flagBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"0\\\"}}\",\"flagTextDecoration\":\"\",\"titleHeadingTag\":\"p\",\"titleTextColor\":\"\",\"titleFontSize\":\"large\",\"titleTextDecoration\":\"\",\"showTitleHighlight\":false,\"titleHighlightColor\":\"\",\"subTitleTextColor\":\"\",\"subTitleFontSize\":\"regular\",\"eyebrowTextColor\":\"\",\"eyebrowFontSize\":\"regular\",\"eyebrowTextDecoration\":\"\",\"showEyebrowHighlight\":false,\"eyebrowHighlightColor\":\"\",\"metadataTextColor\":\"\",\"metadataFontSize\":\"regular\",\"metadataTextDecoration\":\"\",\"showMetadata1Highlight\":false,\"metadata1HighlightColor\":\"\",\"showMetadata2Highlight\":false,\"metadata2HighlightColor\":\"\",\"defaultLinksOverrides\":\"{}\",\"additionalLinks\":\"{}\",\"componentHoverEffect\":\"none\"}}}"
+          },
+          "componentName" : "forceCommunity:dynamicCollection",
+          "id" : "b52eedc0-1785-4a5b-ada6-c93d4892bc9f",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "5dd9b57c-86cb-47ce-bd42-d9667b2ff7ef",
+        "regionLabel" : "Column 3",
+        "regionName" : "0c3dc",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "id" : "a9742ffe-7999-4c62-a7ad-36f6b1904461",
+        "regionLabel" : "Column 4",
+        "regionName" : "2b595",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b5eae971-1b0d-41a0-a1ac-7b6985544d53",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "promotion offer"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "ee584780-7bef-4526-b420-2fd3d06ee939",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "11ba8244-2105-4db1-b3ee-137c992705f8",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "TaiTmllk4EKHEZcLIVASbqLZ01ROfO",
+  "type" : "view",
+  "viewType" : "custom-promotion-offer"
+}

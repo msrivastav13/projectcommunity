@@ -1,0 +1,237 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:dynamicLayout",
+  "id" : "9b59382c-4301-4cb6-b0ef-872f656133d5",
+  "label" : "Order Confirmation",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "3a36a4f7-6d84-44b5-9d80-1969a8d51530",
+          "columns" : [ {
+            "UUID" : "74c5ae05-fa07-401d-8ebd-f2f573b21148",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 32
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "3a36a4f7-6d84-44b5-9d80-1969a8d51530",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><br></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "95d9b4ea-5f95-46b8-8c2c-3f2fbafe948b",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "74c5ae05-fa07-401d-8ebd-f2f573b21148",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "bd14d791-69e5-4a96-bd86-2b5b346d34ae",
+          "columns" : [ {
+            "UUID" : "ddd6d868-3bcc-47e2-b96f-c9cc41d09bd1",
+            "columnName" : "Column 1",
+            "columnKey" : "ab089",
+            "columnWidth" : "8",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "189c65e7-6bfc-45df-a67f-5e9807507437",
+            "columnName" : "Column 2",
+            "columnKey" : "23e17",
+            "columnWidth" : "3",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "25fb1f97-0ea6-41c1-8747-7aa296dc0df6",
+            "columnName" : "Column 3",
+            "columnKey" : "e0b65",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "bd14d791-69e5-4a96-bd86-2b5b346d34ae",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "config" : "{\"contentItemUrlNameId\":\"order-confirmation-20YB0000000PMrsMAG\",\"schemaVersion\":\"V2.0\",\"layoutDefinition\":{\"componentName\":\"forceCommunity:bannerLayout\",\"attributes\":{\"showTitle\":true,\"showCaption\":true,\"showButton\":false,\"showFlag\":true,\"showEyebrow\":true,\"showMetadata1\":true,\"showMetadata2\":true,\"title\":\"\",\"subTitle\":\"\",\"imageUrl\":\"{!CurrentItem.ImageMain.url}\",\"imageAltText\":\"\",\"videoUrl\":\"\",\"flagText\":\"\",\"eyebrowText\":\"\",\"metadata1Text\":\"\",\"metadata2Text\":\"\",\"useAspectRatio\":false,\"bannerAspectRatio\":\"16:9\",\"bannerHeight\":\"667\",\"contentWidth\":\"100\",\"textAlignment\":\"top left\",\"overlayBackgroundColor\":\"rgba(253, 248, 248, 0)\",\"backgroundSize\":\"contain\",\"backgroundPosition\":\"top center\",\"hideTextElementsForVideo\":false,\"flagBackgroundColor\":\"#ff0000\",\"flagTextColor\":\"#ffffff\",\"flagAlignment\":\"top left\",\"flagRotation\":0,\"flagSpacing\":\"medium\",\"flagBorderColor\":\"#ffffff\",\"flagBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"0\\\"}}\",\"flagTextDecoration\":\"\",\"titleHeadingTag\":\"p\",\"titleTextDecoration\":\"\",\"bannerTitleTextColor\":\"#ffffff\",\"titleFontSize\":\"large\",\"showTitleHighlight\":false,\"titleHighlightColor\":\"\",\"bannerSubTitleTextColor\":\"#ffffff\",\"subTitleFontSize\":\"regular\",\"eyebrowTextColor\":\"#ffffff\",\"eyebrowFontSize\":\"regular\",\"eyebrowTextDecoration\":\"\",\"showEyebrowHighlight\":false,\"eyebrowHighlightColor\":\"\",\"metadataTextColor\":\"#ffffff\",\"metadataFontSize\":\"regular\",\"metadataTextDecoration\":\"\",\"showMetadata1Highlight\":false,\"metadata1HighlightColor\":\"\",\"showMetadata2Highlight\":false,\"metadata2HighlightColor\":\"\",\"callToActionLabel\":\"View\",\"callToActionButtonBorderStyles\":\"\",\"callToActionButtonBackgroundColor\":\"\",\"callToActionButtonBackgroundColorHover\":\"\",\"callToActionButtonTextColor\":\"\",\"callToActionButtonTextColorHover\":\"\",\"callToActionButtonBorderColor\":\"\",\"callToActionButtonBorderColorHover\":\"\",\"defaultLinksOverrides\":\"{}\",\"additionalLinks\":\"{}\",\"componentHoverEffect\":\"none\"}}}"
+          },
+          "componentName" : "forceCommunity:managedContent",
+          "id" : "6434e07f-172b-407b-8773-d65454eae7f3",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "ddd6d868-3bcc-47e2-b96f-c9cc41d09bd1",
+        "regionLabel" : "Column 1",
+        "regionName" : "ab089",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "hideWhenEmpty" : true,
+            "launchOption" : "launchModal",
+            "maxDisplayPropositions" : 1,
+            "showDescription" : true,
+            "showImage" : true,
+            "showRejectAction" : true,
+            "showTitle" : false,
+            "strategyName" : "Premium_Coffee_Grinders",
+            "widgetTitle" : "Congratulations!"
+          },
+          "componentName" : "forceCommunity:nbaWidget",
+          "id" : "01316eac-5592-4a22-81c1-f0dbb138b47c",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        }, {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><img class=\"sfdcCbImage\" src=\"{!contentAsset.ad.1}\" /></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "eecd014b-b2e1-44f5-96e0-5e53bd8ca308",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "189c65e7-6bfc-45df-a67f-5e9807507437",
+        "regionLabel" : "Column 2",
+        "regionName" : "23e17",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "id" : "25fb1f97-0ea6-41c1-8747-7aa296dc0df6",
+        "regionLabel" : "Column 3",
+        "regionName" : "e0b65",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "2cb35940-a527-43aa-aa77-1e058e1ad848",
+          "columns" : [ {
+            "UUID" : "d811903a-de90-4b9e-b934-16bc2a667db7",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 32
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "2cb35940-a527-43aa-aa77-1e058e1ad848",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><br></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "d07c1a8e-ed16-4f37-85f8-bebde5280565",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "d811903a-de90-4b9e-b934-16bc2a667db7",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(243,243,243)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "1166f60e-57b6-4fa0-92b3-ddee1017ab99",
+          "columns" : [ {
+            "UUID" : "7e9e46cf-b3c8-4434-8221-bb9add85db1b",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 32
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "1166f60e-57b6-4fa0-92b3-ddee1017ab99",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><img class=\"sfdcCbImage\" src=\"{!contentAsset.footer8.1}\" /></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "7ba142c2-6f8c-4e6f-95b4-33605be2538d",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "7e9e46cf-b3c8-4434-8221-bb9add85db1b",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "32a8a805-4405-4c20-9626-29493bf060b9",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "Order Confirmation"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "bb2804d8-af7e-4908-8da3-7b6df7593de0",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "68f7d573-63c9-4c3d-8760-87cf0bb2f940",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "TaiTmllk4EKHEZcLIVASbqLZ01ROfO",
+  "type" : "view",
+  "viewType" : "custom-order-confirmation"
+}

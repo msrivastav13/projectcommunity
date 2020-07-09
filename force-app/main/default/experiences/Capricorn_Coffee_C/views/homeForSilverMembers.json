@@ -1,0 +1,425 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:dynamicLayout",
+  "id" : "214e4a62-8ca2-4ba1-892a-305831205269",
+  "label" : "Home for Silver Members",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "5cd505a6-1067-4662-80d4-3dc638532888",
+          "columns" : [ {
+            "UUID" : "345483be-dc52-4426-8043-6dddf4493b0a",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 64
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "60dcfdde-33da-43fe-8e2d-98e9ad90e8d5",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 36px;\">﻿Shop Most Popular</span></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "dac5d062-2614-49fb-9c76-4649bece9606",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "9f758c2f-c4eb-4057-b7ae-9cbc674e1bf6",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "acfb5c01-65e4-44a4-a179-852a35fdb096",
+          "columns" : [ {
+            "UUID" : "67bcf32d-dfad-4b22-a06d-11b36681a148",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "17bc8d86-d01b-4578-b3c3-3b7d84b90eb2",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "config" : "{\"dataProviderDefinition\":{\"componentName\":\"forceCommunity:managedContentCollectionDataProvider\",\"attributes\":{\"dataProviderType\":\"NamedCollection\",\"dataProviderInfo\":{\"apiName\":\"General_Products\"}}},\"schemaVersion\":\"V2.0\",\"collectionLayoutDefinition\":{\"componentName\":\"forceCommunity:dynamicCollectionGrid\",\"attributes\":{\"columns\":\"4\",\"rows\":\"1\",\"spacing\":\"none\",\"showCollectionTitle\":false,\"collectionTitle\":\"\",\"showViewMoreButton\":false,\"viewMoreButtonLabel\":\"View More Items\",\"viewMoreButtonPlacement\":\"center\",\"viewMoreButtonRadius\":4,\"viewMoreButtonBackgroundColor\":\"\",\"viewMoreButtonBackgroundColorHover\":\"\",\"viewMoreButtonTextColor\":\"\",\"viewMoreButtonTextColorHover\":\"\",\"viewMoreButtonBorderColor\":\"\",\"viewMoreButtonBorderColorHover\":\"\",\"collectionTitleHeadingTag\":\"h2\"}},\"itemLayoutDefinition\":{\"componentName\":\"forceCommunity:flexTileLayout\",\"attributes\":{\"showTitle\":true,\"showFeaturedMedia\":true,\"showExcerpt\":true,\"showFlag\":false,\"showEyebrow\":false,\"showMetadata1\":false,\"showMetadata2\":false,\"title\":\"{!CurrentItem.ProductName}\",\"subTitle\":\"{!CurrentItem.ProductDetail}\",\"imageUrl\":\"{!CurrentItem.ProductImageMain.url}\",\"imageAltText\":\"\",\"videoUrl\":\"\",\"flagText\":\"\",\"eyebrowText\":\"\",\"metadata1Text\":\"\",\"metadata2Text\":\"\",\"textAlignment\":\"center\",\"contentBackgroundColor\":\"#ffffff\",\"componentPadding\":\"small\",\"contentOffset\":\"0\",\"contentOffsetPadding\":\"medium\",\"contentOffsetBackgroundColor\":\"#ffffff\",\"contentWidth\":\"93\",\"contentPosition\":\"center\",\"borderColor\":\"\",\"componentBorderStyles\":\"\",\"useAspectRatio\":true,\"mediaAspectRatio\":\"16:9\",\"mediaHeight\":450,\"backgroundSize\":\"contain\",\"backgroundPosition\":\"center center\",\"imageAlignment\":\"top\",\"imageBorderColor\":\"#ffffff\",\"imageBorderStyles\":\"\",\"flagBackgroundColor\":\"#ff0000\",\"flagTextColor\":\"#ffffff\",\"flagConstraints\":\"media\",\"flagAlignment\":\"top left\",\"flagRotation\":0,\"flagSpacing\":\"medium\",\"flagBorderColor\":\"#ffffff\",\"flagBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"0\\\"}}\",\"flagTextDecoration\":\"\",\"titleHeadingTag\":\"p\",\"titleTextColor\":\"rgb(68, 68, 68)\",\"titleFontSize\":\"medium\",\"titleTextDecoration\":\"\",\"showTitleHighlight\":false,\"titleHighlightColor\":\"\",\"subTitleTextColor\":\"\",\"subTitleFontSize\":\"regular\",\"eyebrowTextColor\":\"\",\"eyebrowFontSize\":\"regular\",\"eyebrowTextDecoration\":\"\",\"showEyebrowHighlight\":false,\"eyebrowHighlightColor\":\"\",\"metadataTextColor\":\"\",\"metadataFontSize\":\"regular\",\"metadataTextDecoration\":\"\",\"showMetadata1Highlight\":false,\"metadata1HighlightColor\":\"\",\"showMetadata2Highlight\":false,\"metadata2HighlightColor\":\"\",\"defaultLinksOverrides\":\"{}\",\"additionalLinks\":\"{}\",\"componentHoverEffect\":\"none\"}}}"
+          },
+          "componentName" : "forceCommunity:dynamicCollection",
+          "id" : "8159eb38-5919-418d-b53a-bd17f35f5517",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "987eae9a-93da-4905-9ae3-5659e1ad35e0",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(240,242,244)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "8f9c520d-da5c-4417-87b5-5020c17df006",
+          "columns" : [ {
+            "UUID" : "0a7524a3-8d14-4cf4-89c3-d063fe1a53ce",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "d69fd0c4-3395-4a8b-b7a2-deeb16c9da8c",
+            "columnName" : "Column 2",
+            "columnKey" : "d752e",
+            "columnWidth" : "10",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "79aeb4c1-f555-493a-9903-45b2198824fb",
+            "columnName" : "Column 3",
+            "columnKey" : "1a9fe",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 32
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "8a71ca23-7e7f-4b92-9c2d-590ac74f47dd",
+      "regions" : [ {
+        "id" : "9db9450c-3c3a-4ff5-9053-477f31bd17db",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 36px;\">Rise Blog</span></p><p style=\"text-align: center;\"><span style=\"font-size: 28px;\">﻿</span><span style=\"font-size: 18px;\">Explore the latest coffee news and tips from coffee experts</span><span style=\"font-size: 24px;\">&nbsp;</span></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "328deb51-a815-41df-959c-e1bbb615cc54",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "51fa14d8-bf1c-4019-bb7a-e18d42d5e380",
+        "regionLabel" : "Column 2",
+        "regionName" : "d752e",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "id" : "7bd7cfa3-bf59-4d74-98ac-75f31f13a177",
+        "regionLabel" : "Column 3",
+        "regionName" : "1a9fe",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "dfa6f019-a9a1-4536-bcaa-86b624b4fca4",
+          "columns" : [ {
+            "UUID" : "e5f3ebdb-e145-49ad-b69f-ddd36b174844",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "5",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "3c30809a-34a8-4f74-a51c-9a601d549529",
+            "columnName" : "Column 2",
+            "columnKey" : "61c75",
+            "columnWidth" : "7",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 32
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "5f04d465-320a-442b-b78c-1894483b4608",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "config" : "{\"contentItemUrlNameId\":\"coffee-brewing-20YB0000000PMm9MAG\",\"schemaVersion\":\"V2.0\",\"layoutDefinition\":{\"componentName\":\"forceCommunity:bannerLayout\",\"attributes\":{\"showTitle\":true,\"showCaption\":true,\"showButton\":false,\"showFlag\":true,\"showEyebrow\":true,\"showMetadata1\":true,\"showMetadata2\":true,\"title\":\"\",\"subTitle\":\"\",\"imageUrl\":\"\",\"imageAltText\":\"\",\"videoUrl\":\"{!CurrentItem.ActionText}\",\"flagText\":\"\",\"eyebrowText\":\"\",\"metadata1Text\":\"\",\"metadata2Text\":\"\",\"useAspectRatio\":false,\"bannerAspectRatio\":\"16:9\",\"bannerHeight\":\"323\",\"contentWidth\":80,\"textAlignment\":\"center center\",\"overlayBackgroundColor\":\"rgba(0, 0, 0, 0)\",\"backgroundSize\":\"cover\",\"backgroundPosition\":\"center center\",\"hideTextElementsForVideo\":false,\"flagBackgroundColor\":\"#ff0000\",\"flagTextColor\":\"#ffffff\",\"flagAlignment\":\"top left\",\"flagRotation\":0,\"flagSpacing\":\"medium\",\"flagBorderColor\":\"#ffffff\",\"flagBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"0\\\"}}\",\"flagTextDecoration\":\"\",\"titleHeadingTag\":\"p\",\"titleTextDecoration\":\"\",\"bannerTitleTextColor\":\"#ffffff\",\"titleFontSize\":\"large\",\"showTitleHighlight\":false,\"titleHighlightColor\":\"\",\"bannerSubTitleTextColor\":\"#ffffff\",\"subTitleFontSize\":\"regular\",\"eyebrowTextColor\":\"#ffffff\",\"eyebrowFontSize\":\"regular\",\"eyebrowTextDecoration\":\"\",\"showEyebrowHighlight\":false,\"eyebrowHighlightColor\":\"\",\"metadataTextColor\":\"#ffffff\",\"metadataFontSize\":\"regular\",\"metadataTextDecoration\":\"\",\"showMetadata1Highlight\":false,\"metadata1HighlightColor\":\"\",\"showMetadata2Highlight\":false,\"metadata2HighlightColor\":\"\",\"callToActionLabel\":\"View\",\"callToActionButtonBorderStyles\":\"\",\"callToActionButtonBackgroundColor\":\"\",\"callToActionButtonBackgroundColorHover\":\"\",\"callToActionButtonTextColor\":\"\",\"callToActionButtonTextColorHover\":\"\",\"callToActionButtonBorderColor\":\"\",\"callToActionButtonBorderColorHover\":\"\",\"defaultLinksOverrides\":\"{}\",\"additionalLinks\":\"{}\",\"componentHoverEffect\":\"none\"}}}"
+          },
+          "componentName" : "forceCommunity:managedContent",
+          "id" : "8c7fb111-dbbe-496f-b9c3-90953e809ff4",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "26f57c4f-c5ff-48a1-95c5-0ca751a55767",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "config" : "{\"contentItemUrlNameId\":\"learn-about-coffee-brewing-techniques-20YB0000000PN3MMAW\",\"schemaVersion\":\"V2.0\",\"layoutDefinition\":{\"componentName\":\"forceCommunity:bannerLayout\",\"attributes\":{\"showTitle\":true,\"showCaption\":true,\"showButton\":false,\"showFlag\":true,\"showEyebrow\":true,\"showMetadata1\":true,\"showMetadata2\":true,\"title\":\"{!CurrentItem.BlogTitle}\",\"subTitle\":\"{!CurrentItem.BlogDetail}\",\"imageUrl\":\"\",\"imageAltText\":\"\",\"videoUrl\":\"\",\"flagText\":\"\",\"eyebrowText\":\"{!CurrentItem.BlogFlag}\",\"metadata1Text\":\"{!CurrentItem.ActionText}\",\"metadata2Text\":\"\",\"useAspectRatio\":false,\"bannerAspectRatio\":\"16:9\",\"bannerHeight\":\"325\",\"contentWidth\":80,\"textAlignment\":\"center center\",\"overlayBackgroundColor\":\"rgba(0, 0, 0, 0.4)\",\"backgroundSize\":\"cover\",\"backgroundPosition\":\"center left\",\"hideTextElementsForVideo\":false,\"flagBackgroundColor\":\"#ff0000\",\"flagTextColor\":\"#ffffff\",\"flagAlignment\":\"top left\",\"flagRotation\":0,\"flagSpacing\":\"medium\",\"flagBorderColor\":\"#ffffff\",\"flagBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"0\\\"}}\",\"flagTextDecoration\":\"\",\"titleHeadingTag\":\"p\",\"titleTextDecoration\":\"\",\"bannerTitleTextColor\":\"#ffffff\",\"titleFontSize\":\"large\",\"showTitleHighlight\":false,\"titleHighlightColor\":\"\",\"bannerSubTitleTextColor\":\"#ffffff\",\"subTitleFontSize\":\"regular\",\"eyebrowTextColor\":\"#ffffff\",\"eyebrowFontSize\":\"regular\",\"eyebrowTextDecoration\":\"\",\"showEyebrowHighlight\":false,\"eyebrowHighlightColor\":\"\",\"metadataTextColor\":\"#ffffff\",\"metadataFontSize\":\"regular\",\"metadataTextDecoration\":\"\",\"showMetadata1Highlight\":false,\"metadata1HighlightColor\":\"\",\"showMetadata2Highlight\":false,\"metadata2HighlightColor\":\"\",\"callToActionLabel\":\"View\",\"callToActionButtonBorderStyles\":\"\",\"callToActionButtonBackgroundColor\":\"\",\"callToActionButtonBackgroundColorHover\":\"\",\"callToActionButtonTextColor\":\"\",\"callToActionButtonTextColorHover\":\"\",\"callToActionButtonBorderColor\":\"\",\"callToActionButtonBorderColorHover\":\"\",\"defaultLinksOverrides\":\"{}\",\"additionalLinks\":\"{}\",\"componentHoverEffect\":\"none\"}}}"
+          },
+          "componentName" : "forceCommunity:managedContent",
+          "id" : "96b50720-69b7-49e2-84dd-e661373bf8f2",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "05e2415e-57da-4b7f-9ccd-55cd0291e80f",
+        "regionLabel" : "Column 2",
+        "regionName" : "61c75",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "532752bb-cbd7-4f0f-83ba-617ce64589a3",
+          "columns" : [ {
+            "UUID" : "393d704b-7144-4f5e-9727-e76019dd62fc",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "975c50da-bbde-42a3-8783-9ff7b70ea845",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 36px;\">Upcoming Events</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">See exciting new Capricorn Events﻿</span></p><p style=\"text-align: center;\"><br></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "c3e7192f-891f-42d6-a647-cd08ca928b77",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        }, {
+          "componentAttributes" : {
+            "config" : "{\"dataProviderDefinition\":{\"componentName\":\"forceCommunity:managedContentCollectionDataProvider\",\"attributes\":{\"dataProviderType\":\"NamedCollection\",\"dataProviderInfo\":{\"apiName\":\"Events_Near_you\"}}},\"schemaVersion\":\"V2.0\",\"collectionLayoutDefinition\":{\"componentName\":\"forceCommunity:dynamicCollectionGrid\",\"attributes\":{\"columns\":\"3\",\"rows\":\"2\",\"spacing\":\"medium\",\"showCollectionTitle\":false,\"collectionTitle\":\"Events Near You\",\"showViewMoreButton\":false,\"viewMoreButtonLabel\":\"View More Items\",\"viewMoreButtonPlacement\":\"center\",\"viewMoreButtonRadius\":4,\"viewMoreButtonBackgroundColor\":\"\",\"viewMoreButtonBackgroundColorHover\":\"\",\"viewMoreButtonTextColor\":\"\",\"viewMoreButtonTextColorHover\":\"\",\"viewMoreButtonBorderColor\":\"\",\"viewMoreButtonBorderColorHover\":\"\",\"collectionTitleHeadingTag\":\"h2\"}},\"itemLayoutDefinition\":{\"componentName\":\"forceCommunity:flexTileLayout\",\"attributes\":{\"showTitle\":true,\"showFeaturedMedia\":true,\"showExcerpt\":true,\"showFlag\":true,\"showEyebrow\":true,\"showMetadata1\":true,\"showMetadata2\":true,\"title\":\"{!CurrentItem.EventTitle}\",\"subTitle\":\"{!CurrentItem.EventDetail}\",\"imageUrl\":\"{!CurrentItem.EventImageprimary.url}\",\"imageAltText\":\"\",\"videoUrl\":\"\",\"flagText\":\"{!CurrentItem.EventFlag}\",\"eyebrowText\":\"\",\"metadata1Text\":\"\",\"metadata2Text\":\"\",\"textAlignment\":\"left\",\"contentBackgroundColor\":\"#ffffff\",\"componentPadding\":\"none\",\"contentOffset\":\"0\",\"contentOffsetPadding\":\"medium\",\"contentOffsetBackgroundColor\":\"#ffffff\",\"contentWidth\":100,\"contentPosition\":\"center\",\"borderColor\":\"\",\"componentBorderStyles\":\"\",\"useAspectRatio\":false,\"mediaAspectRatio\":\"16:9\",\"mediaHeight\":\"280\",\"backgroundSize\":\"cover\",\"backgroundPosition\":\"center center\",\"imageAlignment\":\"top\",\"imageBorderColor\":\"#ffffff\",\"imageBorderStyles\":\"\",\"flagBackgroundColor\":\"rgb(37, 131, 213)\",\"flagTextColor\":\"#ffffff\",\"flagConstraints\":\"media\",\"flagAlignment\":\"top left\",\"flagRotation\":0,\"flagSpacing\":\"medium\",\"flagBorderColor\":\"rgba(255, 255, 255, 0)\",\"flagBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"0\\\"}}\",\"flagTextDecoration\":\"\",\"titleHeadingTag\":\"p\",\"titleTextColor\":\"rgb(54, 58, 69)\",\"titleFontSize\":\"medium\",\"titleTextDecoration\":\"\",\"showTitleHighlight\":false,\"titleHighlightColor\":\"\",\"subTitleTextColor\":\"\",\"subTitleFontSize\":\"regular\",\"eyebrowTextColor\":\"\",\"eyebrowFontSize\":\"regular\",\"eyebrowTextDecoration\":\"\",\"showEyebrowHighlight\":false,\"eyebrowHighlightColor\":\"\",\"metadataTextColor\":\"\",\"metadataFontSize\":\"regular\",\"metadataTextDecoration\":\"\",\"showMetadata1Highlight\":false,\"metadata1HighlightColor\":\"\",\"showMetadata2Highlight\":false,\"metadata2HighlightColor\":\"\",\"defaultLinksOverrides\":\"{}\",\"additionalLinks\":\"{}\",\"componentHoverEffect\":\"none\"}}}"
+          },
+          "componentName" : "forceCommunity:dynamicCollection",
+          "id" : "30bae694-367f-4a2e-8866-f45b36197c74",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "e0af1a68-ce1e-4b1d-83fe-03c3a675c473",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "c172440f-c29e-4916-8bb7-42553fbe50ac",
+          "columns" : [ {
+            "UUID" : "93bf0412-fb82-4890-9b09-4fbe89e8a8c7",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "14566a5d-b32c-4ddd-9e4e-c83aed0a1643",
+            "columnName" : "Column 2",
+            "columnKey" : "a99de",
+            "columnWidth" : "10",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "bdb64452-820e-4699-9d27-28f129c33c2c",
+            "columnName" : "Column 3",
+            "columnKey" : "e403b",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 32
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "b86d4d89-7450-477a-8f29-e3adbe75e3df",
+      "regions" : [ {
+        "id" : "bef7f8c7-105b-475b-b97d-98639cdc836b",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><img class=\"sfdcCbImage\" src=\"{!contentAsset.hline.1}\" /></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "2d39ecd7-00bc-4aa0-bb58-e3f695e05180",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        }, {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><span style=\"font-size: 36px;\">Locations</span></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">See Our Locations Here</span></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "9e3256c2-0d23-4c3d-994b-8cb2347cb39e",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "0e977152-eece-4414-8397-a18952594eee",
+        "regionLabel" : "Column 2",
+        "regionName" : "a99de",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "id" : "31a74110-1136-48fd-a346-9e954641dab4",
+        "regionLabel" : "Column 3",
+        "regionName" : "e403b",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "68aba1ef-9294-467f-ac09-f5b5aa782a42",
+          "columns" : [ {
+            "UUID" : "6d1979c6-e275-4894-982c-b2f82a6f1195",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "ab52b6a2-4a84-4653-bbe6-3e1f4a6eb851",
+            "columnName" : "Column 2",
+            "columnKey" : "fdc2d",
+            "columnWidth" : "10",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "ba0c1578-cc63-47d8-aa79-e2d755d2dd30",
+            "columnName" : "Column 3",
+            "columnKey" : "057eb",
+            "columnWidth" : "1",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "279f3edc-e2db-4018-826a-215a1c74061f",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p><br></p><p><br></p><p><br></p><p><br></p><p>&nbsp;</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "31cc2b4e-36bc-4d39-b606-46725d2c9e5d",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "11d21e82-f3a4-421a-a8e8-471de344ef8c",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "config" : "{\"dataProviderDefinition\":{\"componentName\":\"forceCommunity:managedContentCollectionDataProvider\",\"attributes\":{\"dataProviderType\":\"NamedCollection\",\"dataProviderInfo\":{\"apiName\":\"Locations_2\"}}},\"schemaVersion\":\"V2.0\",\"collectionLayoutDefinition\":{\"componentName\":\"forceCommunity:dynamicCollectionGrid\",\"attributes\":{\"columns\":\"4\",\"rows\":2,\"spacing\":\"large\",\"showCollectionTitle\":true,\"collectionTitle\":\"\",\"showViewMoreButton\":false,\"viewMoreButtonLabel\":\"View More Items\",\"viewMoreButtonPlacement\":\"center\",\"viewMoreButtonRadius\":4,\"viewMoreButtonBackgroundColor\":\"\",\"viewMoreButtonBackgroundColorHover\":\"\",\"viewMoreButtonTextColor\":\"\",\"viewMoreButtonTextColorHover\":\"\",\"viewMoreButtonBorderColor\":\"\",\"viewMoreButtonBorderColorHover\":\"\",\"collectionTitleHeadingTag\":\"h2\"}},\"itemLayoutDefinition\":{\"componentName\":\"forceCommunity:flexTileLayout\",\"attributes\":{\"showTitle\":true,\"showFeaturedMedia\":true,\"showExcerpt\":true,\"showFlag\":true,\"showEyebrow\":true,\"showMetadata1\":true,\"showMetadata2\":true,\"title\":\"{!CurrentItem.LocationTitle}\",\"subTitle\":\"{!CurrentItem.LocationDetail}\",\"imageUrl\":\"{!CurrentItem.ImageExterior.url}\",\"imageAltText\":\"\",\"videoUrl\":\"\",\"flagText\":\"\",\"eyebrowText\":\"\",\"metadata1Text\":\"\",\"metadata2Text\":\"\",\"textAlignment\":\"center\",\"contentBackgroundColor\":\"rgba(240, 242, 244, 0)\",\"componentPadding\":\"large\",\"contentOffset\":\"0\",\"contentOffsetPadding\":\"small\",\"contentOffsetBackgroundColor\":\"rgba(240, 242, 244, 0)\",\"contentWidth\":\"100\",\"contentPosition\":\"center\",\"borderColor\":\"\",\"componentBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"0\\\"}}\",\"useAspectRatio\":false,\"mediaAspectRatio\":\"16:9\",\"mediaHeight\":\"223\",\"backgroundSize\":\"cover\",\"backgroundPosition\":\"center center\",\"imageAlignment\":\"top\",\"imageBorderColor\":\"#ffffff\",\"imageBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"50\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"50\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"50\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"50\\\"}}\",\"flagBackgroundColor\":\"#ff0000\",\"flagTextColor\":\"#ffffff\",\"flagConstraints\":\"media\",\"flagAlignment\":\"top left\",\"flagRotation\":0,\"flagSpacing\":\"medium\",\"flagBorderColor\":\"#ffffff\",\"flagBorderStyles\":\"{\\\"borderTopLeftRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderTopRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomRightRadius\\\":{\\\"value\\\":\\\"0\\\"},\\\"borderBottomLeftRadius\\\":{\\\"value\\\":\\\"0\\\"}}\",\"flagTextDecoration\":\"\",\"titleHeadingTag\":\"p\",\"titleTextColor\":\"rgb(46, 46, 46)\",\"titleFontSize\":\"medium\",\"titleTextDecoration\":\"{\\\"bold\\\":false,\\\"textTransform\\\":\\\"uppercase\\\"}\",\"showTitleHighlight\":false,\"titleHighlightColor\":\"\",\"subTitleTextColor\":\"\",\"subTitleFontSize\":\"regular\",\"eyebrowTextColor\":\"\",\"eyebrowFontSize\":\"regular\",\"eyebrowTextDecoration\":\"\",\"showEyebrowHighlight\":false,\"eyebrowHighlightColor\":\"\",\"metadataTextColor\":\"\",\"metadataFontSize\":\"regular\",\"metadataTextDecoration\":\"\",\"showMetadata1Highlight\":false,\"metadata1HighlightColor\":\"\",\"showMetadata2Highlight\":false,\"metadata2HighlightColor\":\"\",\"defaultLinksOverrides\":\"{}\",\"additionalLinks\":\"{}\",\"componentHoverEffect\":\"none\"}}}"
+          },
+          "componentName" : "forceCommunity:dynamicCollection",
+          "id" : "1ac4a5e2-70b8-4c4f-8774-cf5bd2ec4ebd",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "0779ac87-ead0-4662-bb5f-59a52326b028",
+        "regionLabel" : "Column 2",
+        "regionName" : "fdc2d",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "id" : "9e568369-b64e-42e3-a65c-d1109227af7c",
+        "regionLabel" : "Column 3",
+        "regionName" : "057eb",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "998a3b59-1099-4c6d-a737-bf673f64c932",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "6d04f522-01f2-44b2-951e-223e9b15dc5e",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a56cf075-5e9b-4909-b42f-eb411262f5ca",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Home",
+  "type" : "view",
+  "viewType" : "home"
+}

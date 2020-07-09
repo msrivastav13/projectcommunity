@@ -1,0 +1,24 @@
+{
+  "orgName": "mohith.shrivastava company",
+  "edition": "Developer",
+  "features": ["Sites","Communities"],
+  "settings": {
+    "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
+    },
+    "securitySettings": {
+        "passwordPolicies": {
+            "enableSetPasswordInApi": true
+        }
+    },
+    "mobileSettings": {
+        "enableS1EncryptedStoragePref2": false
+    },
+    "orgPreferenceSettings": {
+      "networksEnabled": true
+    }
+  }
+}

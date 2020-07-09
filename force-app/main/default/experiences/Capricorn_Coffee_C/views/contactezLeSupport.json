@@ -1,0 +1,37 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "427a2ad6-2ef7-4a7a-8d1c-944e12cbdce4",
+  "label" : "Contactez le support",
+  "regions" : [ {
+    "id" : "4ac2bb3f-6dfc-4eb7-a9c3-dfd1615ea723",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "3632a2ab-d80e-4dce-ba0c-805b53166c6e",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "ac141858-f7ff-41a9-89ff-112867aaacc8",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "Contactez le support"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "bfdb5e4b-060b-43e6-9b61-e618960fbab0",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f67f6b9c-7bbc-4241-89fb-d2e6426e0fd1",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-contactez-le-support"
+}

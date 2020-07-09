@@ -1,0 +1,28 @@
+{
+  "definitionName" : "cypress:branding-cypress",
+  "id" : "a69b00d1-41c6-44d6-9c65-6cd90adf820b",
+  "label" : "Cypress",
+  "type" : "brandingSet",
+  "values" : {
+    "ActionColor" : "rgb(39, 144, 236)",
+    "BorderColor" : "rgba(244, 244, 244, 0)",
+    "CardBackgroundColor" : "rgba(255, 255, 255, 0)",
+    "CompanyLogo" : "/file-asset/Capricorn_logo2x?v=1",
+    "DetailTextColor" : "rgb(54, 58, 69)",
+    "ErrorFontColor" : "#ff9e9e",
+    "HeaderFonts" : "Montserrat",
+    "LinkColor" : "rgb(39, 144, 236)",
+    "LoginBackgroundColor" : "#F4F4F4",
+    "LoginBackgroundImage" : "../../../../sfsites/picasso/core/external/salesforceIdentity/images/background.jpg?v=1",
+    "OverlayTextColor" : "#FFFFFF",
+    "PageBackgroundColor" : "rgb(255, 255, 255)",
+    "PrimaryFont" : "Montserrat",
+    "TextColor" : "rgb(54, 58, 69)",
+    "TextTransformStyle" : "none",
+    "_ActionColorDarker" : "#1276ce",
+    "_ActionColorTrans" : "rgba(39, 144, 236, 0.9)",
+    "_HoverColor" : "rgba(39, 144, 236, 0.05)",
+    "_LinkColorDarker" : "#137cd7",
+    "_OverlayTextColorShadow" : "#000"
+  }
+}

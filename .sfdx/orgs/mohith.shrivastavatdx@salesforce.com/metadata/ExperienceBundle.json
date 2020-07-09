@@ -1,0 +1,161 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005B0000006H1R0IAK",
+      "createdByName": "Erica Ware",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Capricorn_Coffee_B2B_Store_C",
+      "fullName": "Capricorn_Coffee_B2B_Store_C",
+      "id": "0DMB0000000PVh0OAG",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006RNCuIAO",
+      "createdByName": "Admin User",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Capricorn_Coffee_C",
+      "fullName": "Capricorn_Coffee_C",
+      "id": "0DMB0000000XiXbOAK",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006e0ddIAA",
+      "createdByName": "Mohit",
+      "createdDate": "2020-01-23T20:10:38.000Z",
+      "fileName": "experiences/Customer_Community1",
+      "fullName": "Customer_Community1",
+      "id": "0DMB0000000JGkiOAG",
+      "lastModifiedById": "005B0000006e0ddIAA",
+      "lastModifiedByName": "Mohit",
+      "lastModifiedDate": "2020-01-23T21:54:24.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006H1R0IAK",
+      "createdByName": "Erica Ware",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Capricorn_Industries_Commercial_Portal_C",
+      "fullName": "Capricorn_Industries_Commercial_Portal_C",
+      "id": "0DMB0000000PVgxOAG",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006RNCuIAO",
+      "createdByName": "Admin User",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Cap_Field_Service1",
+      "fullName": "Cap_Field_Service1",
+      "id": "0DMB0000000PVgzOAG",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006RNCuIAO",
+      "createdByName": "Admin User",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Winter_Release1",
+      "fullName": "Winter_Release1",
+      "id": "0DMB0000000XiXeOAK",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006RNCuIAO",
+      "createdByName": "Admin User",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Capricorn_Support_Landing_Page1",
+      "fullName": "Capricorn_Support_Landing_Page1",
+      "id": "0DMB0000000XiXaOAK",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006H1R0IAK",
+      "createdByName": "Erica Ware",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Capricorn_Cafe_Consumer_Community_C",
+      "fullName": "Capricorn_Cafe_Consumer_Community_C",
+      "id": "0DMB0000000PVgyOAG",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006H1R0IAK",
+      "createdByName": "Erica Ware",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Bright_Financial_C",
+      "fullName": "Bright_Financial_C",
+      "id": "0DMB0000000XiXYOA0",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006RNCuIAO",
+      "createdByName": "Admin User",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Alitalia1",
+      "fullName": "Alitalia1",
+      "id": "0DMB0000000XiXcOAK",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006RNCuIAO",
+      "createdByName": "Admin User",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Capricorn_B2B_Lightning1",
+      "fullName": "Capricorn_B2B_Lightning1",
+      "id": "0DMB0000000XiXdOAK",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006P3Z5IAK",
+      "createdByName": "Geno Mathew",
+      "createdDate": "2020-06-19T20:34:08.000Z",
+      "fileName": "experiences/Cafe_Help_Center1",
+      "fullName": "Cafe_Help_Center1",
+      "id": "0DMB0000000c9H5OAI",
+      "lastModifiedById": "005B0000006P3Z5IAK",
+      "lastModifiedByName": "Geno Mathew",
+      "lastModifiedDate": "2020-06-19T20:34:08.000Z",
+      "type": "ExperienceBundle"
+    },
+    {
+      "createdById": "005B0000006RNCuIAO",
+      "createdByName": "Admin User",
+      "createdDate": "2019-10-02T08:47:58.000Z",
+      "fileName": "experiences/Capricorn_Guest_Help_Center_C",
+      "fullName": "Capricorn_Guest_Help_Center_C",
+      "id": "0DMB0000000XiXZOA0",
+      "lastModifiedById": "005B0000006RNCuIAO",
+      "lastModifiedByName": "Admin User",
+      "lastModifiedDate": "2019-10-02T08:47:58.000Z",
+      "type": "ExperienceBundle"
+    }
+  ]
+}

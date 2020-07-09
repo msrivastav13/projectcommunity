@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "1048b1f4-364e-4599-98d4-a20b40574d89",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "bafe0220-a3a9-42e2-9510-e8f4e28b344a",
+  "label" : "Banner Detail",
+  "pageAccess" : "UseParent",
+  "routeType" : "managed-content-Banner",
+  "type" : "route",
+  "urlPrefix" : "banner"
+}

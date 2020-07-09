@@ -1,0 +1,132 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:dynamicLayout",
+  "id" : "65971201-cd1d-4e90-b7c1-9b67a4238963",
+  "label" : "Costa Rica",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "88ef7ab7-8d7f-4798-b607-019a95e601f5",
+          "columns" : [ {
+            "UUID" : "c444899d-d868-4207-85d4-95eb98a14da1",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "88ef7ab7-8d7f-4798-b607-019a95e601f5",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\">EVENTS + GIVEAWAYS - AUG 10, 2019</p>\n<p style=\"text-align: center;\"><b style=\"font-size: 36px;\">COSTA RICA TRIP SWEEPSTAKES</b></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><img class=\"sfdcCbImage\" src=\"{!contentAsset.Image.1}\" style=\"width: 946.141px; height: 412.359px;\" /></p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "df453599-9384-4cba-8920-43ee50ffd735",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "c444899d-d868-4207-85d4-95eb98a14da1",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgb(255,255,255)",
+        "backgroundOverlay" : "rgba(255,255,255,0.7)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "173344f7-a027-4835-b2ef-825b81d1eac6",
+          "columns" : [ {
+            "UUID" : "97452d9f-226e-4ce7-8ab1-8be3974cbb71",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "2",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "842bdd37-97b4-4dfa-bcc3-e6e2bfa43996",
+            "columnName" : "Column 2",
+            "columnKey" : "fe31d",
+            "columnWidth" : "8",
+            "seedComponents" : [ ]
+          }, {
+            "UUID" : "f5552665-de17-44d1-b9b8-a01258eca734",
+            "columnName" : "Column 3",
+            "columnKey" : "4a656",
+            "columnWidth" : "2",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "173344f7-a027-4835-b2ef-825b81d1eac6",
+      "regions" : [ {
+        "id" : "97452d9f-226e-4ce7-8ab1-8be3974cbb71",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<p><span style=\"font-size: 28px;\">ENTER to win 10 day all expenses paid trip for two, to Cafe Amaro Farms in Costa Rica</span></p>\n<p><br /></p>\n<p><span style=\"font-size: 20px;\">Named the number one eco-sustainable coffee plantation in Latin America, this farm offers </span></p>\n<p><span style=\"font-size: 20px;\">﻿a one of a kind vacation for coffee enthusiasts. More details about the trip should go here, things to do, places to see. For complete details, read the </span><u style=\"font-size: 20px; background-color: rgb(255, 255, 255); color: rgb(0, 102, 204);\">official rules</u><span style=\"font-size: 20px;\">.</span></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><img class=\"sfdcCbImage\" src=\"{!contentAsset.form.1}\" /></p>\n<p><br /></p>\n<p><br /></p>\n<p>&nbsp;</p>"
+          },
+          "componentName" : "forceCommunity:richTextInline",
+          "id" : "f418c02e-7c52-46db-b5b5-66e8ca8cf26d",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "842bdd37-97b4-4dfa-bcc3-e6e2bfa43996",
+        "regionLabel" : "Column 2",
+        "regionName" : "fe31d",
+        "renditionMap" : { },
+        "type" : "region"
+      }, {
+        "id" : "f5552665-de17-44d1-b9b8-a01258eca734",
+        "regionLabel" : "Column 3",
+        "regionName" : "4a656",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e64f5e43-00b3-46b4-bc0b-fb110929c49b",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "Sweepstakes Detail"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "75b2e104-79d4-42a4-bf7c-331523e59212",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d3f494f6-53e7-48c1-ba84-c9cb14590bdf",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "TaiTmllk4EKHEZcLIVASbqLZ01ROfO",
+  "type" : "view",
+  "viewType" : "custom-sweepstakes-detail"
+}

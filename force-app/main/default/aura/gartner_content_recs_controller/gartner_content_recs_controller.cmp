@@ -1,0 +1,75 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes" access="global">
+    
+    <aura:attribute name="imgGoesHere1" type="String" default="/sfsites/c/file-asset/heroguest"/>
+    <aura:attribute name="imgGoesHere2" type="String" default="/sfsites/c/file-asset/heroguest"/>
+    <aura:attribute name="imgGoesHere3" type="String" default="/sfsites/c/file-asset/heroguest"/>
+    <aura:attribute name="urlGoesHere1" type="String" default="http://www.google.com"/> 
+    <aura:attribute name="urlGoesHere2" type="String" default="http://www.google.com"/>
+    <aura:attribute name="urlGoesHere3" type="String" default="http://www.google.com"/>
+    <aura:attribute name="title1" type="String" default="Title 1"/> 
+    <aura:attribute name="title2" type="String" default="Title 2"/>
+    <aura:attribute name="title3" type="String" default="Title 3"/>
+    
+    <aura:attribute name="communityPrefix" type="String" default="capricorncoffee" access="global"/>
+    <aura:attribute name="blogPageName" type="String" default="blogs" access="global" />
+    
+    <!-- <aura:attribute name="description1" type="String" default="Learn some of the best locations for coffee tourism in Thailand courtesy of the Exotic Bean, specialists in SE Asia imported coffee."/> 
+    <aura:attribute name="description2" type="String" default="Learn some of the best locations for coffee tourism in Thailand courtesy of the Exotic Bean, specialists in SE Asia imported coffee."/>
+    <aura:attribute name="description3" type="String" default="Learn some of the best locations for coffee tourism in Thailand courtesy of the Exotic Bean, specialists in SE Asia imported coffee."/> -->
+    
+    
+    <aura:handler name="init" value="{!this}" action="{!c.thirdpartyClientCall}"/>
+    
+    <div class="slds">
+        <div class="centerContent">
+            <div class="slds-m-top_x-large slds-p-top_x-large slds-m-bottom_x-large">
+                <span class="headerTitle">Recommended for you</span>
+            </div>
+            
+            <div class="divInlineBlock slds-m-horizontal_x-large">
+                <div style="{!'background-image: url(\'' + v.imgGoesHere1 + '\');'}" class="spanImg">
+                    
+                </div>
+                <div class="leftAlignContent slds-m-vertical_large">
+                    <a href ="{!v.urlGoesHere1}" id="url1" class="linkColor slds-text-heading_medium"> 
+                        <p><span>{!v.title1}</span></p> 
+                    </a>
+                    <p class="slds-text-body_regular slds-m-top_small">{!v.description1}</p>
+                </div>
+            </div>
+            
+            <span class="whiteSpace">
+                <ui:outputRichText aura:id="placeHolder1" value = " "/> 
+            </span>
+            
+            <div class="divInlineBlock slds-m-horizontal_x-large">
+                <div style="{!'background-image: url(\'' + v.imgGoesHere2 + '\');'}" class="spanImg">
+                    
+                </div>
+                <div class="leftAlignContent slds-m-vertical_large">
+                    <a href ="{!v.urlGoesHere2}" id="url2" class="linkColor slds-text-heading_medium"> 
+                        <p><span>{!v.title2}</span></p>
+                    </a>
+                    <p class="slds-text-body_regular slds-m-top_small">{!v.description2}</p>
+                </div>
+            </div>
+            
+            <span class="whiteSpace">
+                <ui:outputRichText aura:id="placeHolder2" value=" "/> 
+            </span>
+            
+            <div class="divInlineBlock slds-m-horizontal_x-large">
+                <div style="{!'background-image: url(\'' + v.imgGoesHere3 + '\');'}" class="spanImg">
+                    
+                </div>
+                <div class="leftAlignContent slds-m-vertical_large">
+                    <a href ="{!v.urlGoesHere3}" id="url3" class="linkColor slds-text-heading_medium"> 
+                        <p><span>{!v.title3}</span></p> 
+                    </a>
+                    <p class="slds-text-body_regular slds-m-top_small">{!v.description3}</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</aura:component>

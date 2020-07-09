@@ -1,0 +1,55 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:sldsThreeCol363Layout",
+  "id" : "1048b1f4-364e-4599-98d4-a20b40574d89",
+  "label" : "Banner Detail",
+  "regions" : [ {
+    "id" : "b678e035-6f47-46e8-b9c8-19b2699f7ffd",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "config" : "{\"layoutDefinition\":{\"componentName\":\"forceCommunity:detailLayout\",\"attributes\":{\"showCaption\":true,\"showDate\":true,\"showImage\":true,\"pageLayout\":\"headerFirst\",\"title\":\"\",\"subTitle\":\"\",\"imageUrl\":\"\",\"imageAltText\":\"\",\"contentBody\":\"{!CurrentItem.Detail}\",\"imageLayout\":\"cover\",\"imagePosition\":\"center center\",\"imageHeight\":450,\"headerTextAlignment\":\"center\",\"titleHeadingTag\":\"h2\"}},\"schemaVersion\":\"V2.0\"}"
+      },
+      "componentName" : "forceCommunity:managedContentDetail",
+      "id" : "1ffcc884-46ad-414c-ab63-52981aec2a70",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a9eba88a-f447-4012-9178-3be7541d3bfa",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "b12b95b2-c3af-40b8-89f9-0e8eda1a1a3c",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : ""
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "ada49161-c04a-421b-8e9c-f5fe3744c2d6",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "550b41a1-4ea7-4128-b210-e63a043febe3",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "id" : "e6e6b99d-4bae-4181-8e8a-d2e09bc1946e",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "6ca0cce6-18a4-4b25-ba6e-cbd69615ffb2",
+    "regionName" : "sidebarAlt",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "TaiTmllk4EKHEZcLIVASbqLZ01ROfO",
+  "type" : "view",
+  "viewType" : "managed-content-Banner"
+}

@@ -1,0 +1,37 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "839e9e1b-ce0a-42e8-90f0-00892ac2e39d",
+  "label" : "CoffeeEvent Detail",
+  "regions" : [ {
+    "id" : "b8dc9043-8aaa-44a1-8084-3edd3ea2eed0",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "a83ca35c-57c9-4497-ba33-10a0032ad12e",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "835c7fb6-2bf0-4ac3-9f99-c8332bca0ad3",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "{!Record._Object}: {!Record._Title}"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "f70479ab-8c3c-4a7f-84c8-2d98c597ef5d",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e274cd91-d7e7-4de4-9110-3a12b00e8be7",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "detail-e00"
+}

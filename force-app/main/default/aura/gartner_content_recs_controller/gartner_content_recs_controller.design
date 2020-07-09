@@ -1,0 +1,6 @@
+<design:component label="Gartner Content Recommendations">
+    <design:attribute name="communityPrefix" label="Community Prefix" default="capricorncoffee"
+    description="The community prefix. For example: if url is community.force.com/capricorncoffee, the prefix would be capricorncoffee."/>
+    <design:attribute name="blogPageName" label="Blog Page URL Name" default="blogs"
+    description="The url slug of the blogs detail page."/>
+</design:component>

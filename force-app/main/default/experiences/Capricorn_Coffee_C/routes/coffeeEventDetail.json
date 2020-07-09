@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "839e9e1b-ce0a-42e8-90f0-00892ac2e39d",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "0544b560-f7fb-4bc9-82ca-6b14fed7a123",
+  "label" : "CoffeeEvent Detail",
+  "objectApiName" : "CoffeeEvent__e",
+  "routeType" : "detail-e00",
+  "type" : "route",
+  "urlPrefix" : "coffeeevent"
+}

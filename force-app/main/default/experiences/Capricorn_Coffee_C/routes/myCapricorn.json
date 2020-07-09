@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "1d56707c-becc-4059-9bcd-06f24bfabd08",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "68bc6fbd-3b99-4d51-becf-5993f07ff522",
+  "label" : "My Capricorn",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-home-page-sudhir",
+  "type" : "route",
+  "urlPrefix" : "home-page-auth-final"
+}

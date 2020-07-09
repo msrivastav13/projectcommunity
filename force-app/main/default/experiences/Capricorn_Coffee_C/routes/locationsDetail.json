@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "5a28b579-9f90-448f-aa78-6795b120e5d6",
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "id" : "8a2485e3-a844-4aee-8345-e236d1920454",
+  "label" : "Locations Detail",
+  "pageAccess" : "UseParent",
+  "routeType" : "managed-content-Locations",
+  "type" : "route",
+  "urlPrefix" : "locations"
+}

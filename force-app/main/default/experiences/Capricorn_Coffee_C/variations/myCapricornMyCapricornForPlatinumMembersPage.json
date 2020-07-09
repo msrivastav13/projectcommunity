@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "b2cb7074-71c8-4e50-9ba2-47651fe364c3",
+    "propertyOverrides" : {
+      "activeViewId" : "839556eb-1512-444b-9491-212b807d232c"
+    },
+    "targetId" : "68bc6fbd-3b99-4d51-becf-5993f07ff522",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "My_Capricorn_My_Capricorn_for_Platinum_Members_Page",
+  "id" : "9226679b-f85f-4f72-9ff0-6fbe89b458f5",
+  "type" : "experienceVariation"
+}

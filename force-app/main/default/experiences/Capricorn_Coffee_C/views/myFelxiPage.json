@@ -1,0 +1,59 @@
+{
+  "appPageId" : "8c93e41f-821e-4eb1-9b45-8d8bd1d7e1c5",
+  "componentName" : "siteforce:dynamicLayout",
+  "id" : "6b825f61-6d61-4732-85c2-dc64b8bf0923",
+  "label" : "myFelxiPage",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "43c100c2-c86d-4349-878b-1892f6069996",
+          "columns" : [ {
+            "UUID" : "deb2cf81-b5ad-45a5-bc03-a03246c6801b",
+            "columnName" : "Column 1",
+            "columnKey" : "1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "43c100c2-c86d-4349-878b-1892f6069996",
+      "regions" : [ {
+        "id" : "deb2cf81-b5ad-45a5-bc03-a03246c6801b",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "70efd104-bce1-4b11-b2eb-fad0237c92a7",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "myFelxiPage"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "4b859e04-6a67-4d3c-a0e3-5aa51ac2f30b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "39f00b47-689b-48a1-9ada-1bb57b06004f",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-myfelxipage"
+}
